@@ -9,7 +9,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mohammad Shahedur Rahman</title>
+    <title>Adelusi Bamidele Samuel</title>
     <style>
         /* General Body Style */
         body {
@@ -225,7 +225,7 @@ redirect_from:
 </div>
 
 <footer>
-    © 2024 by Mohammad Shahedur Rahman. All rights reserved.
+    © 2024 by Adelusi Bamidele Samuel. All rights reserved.
 </footer>
 
 </body>

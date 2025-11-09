@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Shahedur Rahman"
+title                    : "Adelusi Bamidele Samuel"
 title_separator          : "-"
-name                     : &name "Mohammad Shahedur Rahman"
+name                     : &name "Adelusi Bamidele Samuel"
 description              : &description "Ph.D. Student"
 url                      : https://mdshahedrahman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Shahedur Rahman"
+  name             : "Adelusi Bamidele Samuel"
   avatar           : "My_HS.jpg"
   bio              : "Ph.D. Student in the Department of Computer Science & Engineering at The University of Texas at Arlington"
   location         : "Dallas-Fort Worth Metroplex, Texas"
