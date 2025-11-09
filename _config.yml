@@ -11,9 +11,9 @@ title                    : "Adelusi Bamidele Samuel"
 title_separator          : "-"
 name                     : &name "Adelusi Bamidele Samuel"
 description              : &description "Ph.D. Student"
-url                      : https://mdshahedrahman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://deleadelusi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mdshahedrahman/mdshahedrahman.github.io"
+repository               : "deleadelusi/deleadelusi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,9 +86,9 @@ author:
   location         : "Dallas-Fort Worth Metroplex, Texas"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=wNZsv4wAAAAJ&hl=en"
-  email            : "mxr7980@mavs.uta.edu, shahed.uta@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Mohammad-Shahedur-Rahman-3"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=kqXoktcAAAAJ"
+  email            : "bsa0311@mavs.uta.edu, deleadelusi@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Bamidele-Adelusi?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mdshahedrahman"
+  github           : "deleadelusi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "m-shahed/"
-  orcid            : "https://orcid.org/0009-0001-9167-7249"
+  linkedin         : "https://www.linkedin.com/in/dele-adelusi/"
+  orcid            : "https://orcid.org/XXXXXX"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
