@@ -4,7 +4,6 @@ title: ""
 permalink: /skills/
 author_profile: true
 ---
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
