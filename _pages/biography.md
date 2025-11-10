@@ -234,25 +234,22 @@ redirect_from:
 <div class="content">
     <!-- Full-width Biography Card -->
     <div class="certification-layout">
-        <div class="separator">Biography</div>
+        <div class="separator">Profile</div>
         <!-- Biography Card without the Icon -->
         <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
                 <p>I am Bamidele Samuel Adelusi, a distinguished Software Developer, Data Scientist, Artificial Intelligence/Machine Learning Specialist, Cloud Solutions Architect and Business Intelligence Expert with over 15 years of experience developing software and applying data science and artificial intelligence (AI) to solve complex, real-world challenges across multiple sectors, including healthcare, retail, real estate, finance, SaaS, and beyond.
-                With a Master of Science in Data Analytics and Research from University of Texas at Dallas – United States of America, a Master in Business Computing from University of Ibadan - Nigeria, and a Master of Business Administration in Financial Management from Ladoke Akintola University - Nigeria. Prior to my Master degrees, I graduated with a Post Graduate Diploma in Computer Science from Lagos State University - Nigeria, and a Computer Science major from Yaba College of Technology, Nigeria where I began my Computer Science journey. Recently, I added an additional AWS Solution Architect Professional to the list of my procefessional certifications.
-                </p> My career spans a broad range of domains, including software development, data science, artificial intelligence, machine learning, data analytics, big data, cloud computing, systems administration, and infrastructure management. I have been responsible for designing strategies, overseeing the development and implementation of major systems initiatives, and managing multiple concurrent projects, involving complex system integrations and the deployment of innovative software applications. I have consistently delivered value by aligning technology solutions with strategic business objectives.
+                With a Master of Science in Data Analytics and Research from University of Texas at Dallas – United States of America, a Master in Business Computing from University of Ibadan - Nigeria, and a Master of Business Administration in Financial Management from Ladoke Akintola University - Nigeria. Prior to my Master degrees, I graduated with a Post Graduate Diploma in Computer Science from Lagos State University - Nigeria, and a Computer Science major from Yaba College of Technology, Nigeria where I began my Computer Science journey. Recently, I added an additional AWS Solution Architect Professional to the list of my procefessional certifications.</p>
+                <p>My career spans a broad range of domains, including software development, data science, artificial intelligence, machine learning, data analytics, big data, cloud computing, systems administration, and infrastructure management. I have been responsible for designing strategies, overseeing the development and implementation of major systems initiatives, and managing multiple concurrent projects, involving complex system integrations and the deployment of innovative software applications. I have consistently delivered value by aligning technology solutions with strategic business objectives.
                 As a Software Engineer, Data Scientist, and Cloud Solutions Architect, I have applied this diverse skill sets to implement innovative and secure solutions, contributed to the growth and success of organizations.</p> 
                 <p>However, my expertise spans several critical areas of data science, but I am particularly skilled in predictive analytics and the development of AI-powered solutions that help businesses make data-driven decisions. I have built a strong reputation for my ability to develop machine learning models that help organizations anticipate future trends, forecast demand, optimize operations, and drive strategic growth. One of my key strengths lies in creating innovative, AI-driven business intelligence strategies that solve some of the most pressing problems faced by industries today.</p> 
-                
-  
- 
-
- <p> Looking ahead, I aspire to take on strategic leadership roles in AI security, digital transformation, risk governance, and cybersecurity innovation, bridging academic research and industry practice. My goal is to shape secure AI policies, lead impactful digital transformation programs, and help build trustworthy, scalable digital ecosystems that advance resilience, privacy, and responsible innovation.</p>
+                <p>My continued involvement in both academia and industry ensures that I will stay at the forefront of technological advancements. As a thought leader in AI and data science, I will continue to contribute to the development of new solutions that address critical global challenges. By collaborating with like-minded professionals and organizations in the United States, I will play a key role in advancing AI and data science to benefit not only U.S. industries but also society at large.</p>
+                <p>I am confident that my expertise in AI, machine learning, data science, software development and cloud computing will continue to have a lasting impact through my research, development, and collaborations, I will contribute to solving most pressing challenges, driving innovation, and remains at the forefront of global technology.</p>
                 
                 <!-- New Download CV section -->
                 <div class="cv-link-wrapper">
                     <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
-                    <a href="/files/XXXXXXXXXXX.pdf" class="cv-link" target="_blank">Download my resumé / CV</a> 
+                    <a href="/files/DeleAdelusiResume2026.pdf" class="cv-link" target="_blank">Download my resumé / CV</a> 
                 </div>
             </div>
         </div>
@@ -285,7 +282,7 @@ redirect_from:
 
         <!-- Education Card 3 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/The_logo_of_University_of_Ibadan.jpg" alt="Graduation Cap">
+            <img src="https://upload.wikimedia.org/xxx.jpg" alt="Graduation Cap">
             <div>
                 <h5>Master in Business Computing</h5>
                 <p>2018<br><small><a href="https://pgcollege.ui.edu.ng/program.php?department=Computer%20Science" target="_blank">University of Ibadan (UI)</a></small></p>
@@ -324,13 +321,13 @@ redirect_from:
     <!-- Card Layout for Interests -->
     <div class="certification-layout">
         <!-- Interests Section Separator -->
-        <div class="separator">Expertise</div>
+        <div class="separator">Research Interest</div>
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-                <li>Security & Risk Analysis in AI Supply Chain (LLM)</li>
-        		    <li>Graph-Centric Security, Learning & Analytics</li>
-        		    <li>Digital Transformation & Cloud-Native Modernization</li>
+                <li>Machine Learning for Healthcare)</li>
+        		    <li>Artificial Intelligence</li>
+        		    <li>Neural Networks and Deep Learning</li>
         		    <li>Microservices, Docker & Kubernetes Orchestration</li>
             </div>
         </div>
@@ -338,10 +335,10 @@ redirect_from:
         <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-                <li>Project & Security Portfolio Leadership (FinTech, Consulting)</li>
-                <li>Cybersecurity Strategy & Threat Mitigation (SIEM, SOAR, XDR)</li>
-                <li>GRC & Data Privacy in Banking and Government Systems</li>
-                <li>IT Audit, Compliance & Risk Governance (SOX, ISO, GDPR)</li>
+                <li>Cloud Computing & Infrastructure as Code</li>
+                <li>Digital Transformation & Cloud-Native Modernization</li>
+                <li>Software Engineering</li>
+                <li>Data Mining</li>
             </div>
         </div>
     </div>
@@ -349,7 +346,7 @@ redirect_from:
 </div>
 
 <footer>
-    © 2024 by Adelusi Bamidele Samuel. All rights reserved.
+    © 2025 by Adelusi Bamidele Samuel. All rights reserved.
 </footer>
 
 </body>
