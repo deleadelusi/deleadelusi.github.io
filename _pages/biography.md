@@ -239,28 +239,88 @@ redirect_from:
         <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
                 <p>I am Bamidele Samuel Adelusi, a distinguished Software Developer, Data Scientist, Artificial Intelligence/Machine Learning Specialist, Cloud Solutions Architect and Business Intelligence Expert with over 15 years of experience developing software and applying data science and artificial intelligence (AI) to solve complex, real-world challenges across multiple sectors, including healthcare, retail, real estate, finance, SaaS, and beyond.
-                With a Master of Science in Data Analytics and Research from University of Texas at Dallas – United States of America, a Master in Business Computing from University of Ibadan - Nigeria, and a Master of Business Administration in Financial Management from Ladoke Akintola University - Nigeria. Prior to my Master degrees, I graduated with a Post Graduate Diploma in Computer Science from Lagos State University - Nigeria, and a Computer Science major from Yaba College of Technology, Nigeria where I began my Computer Science journey. Recently, I added an additional AWS Solution Architect Professional to the list of my procefessional cdrtifications.
+                With a Master of Science in Data Analytics and Research from University of Texas at Dallas – United States of America, a Master in Business Computing from University of Ibadan - Nigeria, and a Master of Business Administration in Financial Management from Ladoke Akintola University - Nigeria. Prior to my Master degrees, I graduated with a Post Graduate Diploma in Computer Science from Lagos State University - Nigeria, and a Computer Science major from Yaba College of Technology, Nigeria where I began my Computer Science journey. Recently, I added an additional AWS Solution Architect Professional to the list of my procefessional certifications.
                 </p> My career spans a broad range of domains, including software development, data science, artificial intelligence, machine learning, data analytics, big data, cloud computing, systems administration, and infrastructure management. I have been responsible for designing strategies, overseeing the development and implementation of major systems initiatives, and managing multiple concurrent projects, involving complex system integrations and the deployment of innovative software applications. I have consistently delivered value by aligning technology solutions with strategic business objectives.
                 As a Software Engineer, Data Scientist, and Cloud Solutions Architect, I have applied this diverse skill sets to implement innovative and secure solutions, contributed to the growth and success of organizations.</p> 
-                
                 <p>However, my expertise spans several critical areas of data science, but I am particularly skilled in predictive analytics and the development of AI-powered solutions that help businesses make data-driven decisions. I have built a strong reputation for my ability to develop machine learning models that help organizations anticipate future trends, forecast demand, optimize operations, and drive strategic growth. One of my key strengths lies in creating innovative, AI-driven business intelligence strategies that solve some of the most pressing problems faced by industries today.</p> 
-                <p>I’m Adelusi Bamidele Samuel, a Ph.D. Candidate in the Computer Science department at <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a>, where  I am honored to work at the <a href="https://yuede.github.io//lab/" target="_blank">Graph Lab</a> under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=jiy3" target="_blank">Dr. Yuede (YJ) Ji</a>. My research spans AI security, graph AI, and scalable graph analytics, with a particular focus on risk analysis in the AI supply chain, especially large language models. I aim to leverage graph AI, machine learning, and security engineering to design innovative, scalable, privacy-preserving, and resilient solutions that mitigate evolving threats, ensure compliance, and deliver measurable business impact in complex digital environments.</p>      
-
-<p>Prior to my doctoral pursuit, I accrued over 12 years of professional expertise in Bangladesh's diversified domains, such as fintech, consultancy, government institutions, holding pivotal roles such as Chief Information Security Officer (CISO) at <a href="https://www.bracbank.com/en/" target="_blank">BRAC Bank PLC</a>. I also contributed to national infrastructure projects as an IT auditor and security consultant for the Bangladesh Government on projects like the (<a href="https://bdccl.gov.bd/" target="_blank">Tier IV National Data Center</a>, <a href="https://ndc.bcc.gov.bd/" target="_blank">National Data Center (NDC)</a> and <a href="https://www.cirt.gov.bd/" target="_blank">BGD e-GOV CIRT</a>) funded by the <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a>. </p>
+                
   
- <p> My career is further distinguished by my work with <a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a> and <a href="https://kpmg.com/bd/en/home.html/" target="_blank">KPMG Bangladesh</a>, one of the "Big Four" accounting firms, where I honed deep expertise in cybersecurity, risk management, and IT auditing. These experiences have solidified my expertise in shaping security strategies for large-scale enterprises and national projects.</p>
+ 
 
  <p> Looking ahead, I aspire to take on strategic leadership roles in AI security, digital transformation, risk governance, and cybersecurity innovation, bridging academic research and industry practice. My goal is to shape secure AI policies, lead impactful digital transformation programs, and help build trustworthy, scalable digital ecosystems that advance resilience, privacy, and responsible innovation.</p>
                 
                 <!-- New Download CV section -->
                 <div class="cv-link-wrapper">
                     <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
-                    <a href="/files/Resume_Mohammad_Shahedur_Rahman.pdf" class="cv-link" target="_blank">Download my resumé / CV</a> 
+                    <a href="/files/XXXXXXXXXXX.pdf" class="cv-link" target="_blank">Download my resumé / CV</a> 
                 </div>
             </div>
         </div>
     </div>
 
+    <!-- New Style for Education Section -->
+    <div class="education-layout">
+        <!-- Education Section Separator -->
+        <div class="separator">
+            <span>Education</span>
+        </div>
+
+        <!-- Education Card 1 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
+            <div>
+                <h5>PhD in Computer Science and Engineering </h5>
+                <p>2026 - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 2 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/UT_Dallas_Emblem_-_Flame_Orange_%28Updated%29.jpg" alt="Graduation Cap">
+            <div>
+                <h5>MSc in Social Data Analytics and Research</h5>
+                <p>2024<br><small><a href="https://epps.utdallas.edu/about/programs/cyber-big-data-analytics/master-of-science-in-social-data-analytics-and-research/" target="_blank">The University of Texas at Dallas (UTD)</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 3 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/The_logo_of_University_of_Ibadan.jpg" alt="Graduation Cap">
+            <div>
+                <h5>Master in Business Computing</h5>
+                <p>2018<br><small><a href="https://pgcollege.ui.edu.ng/program.php?department=Computer%20Science" target="_blank">University of Ibadan (UI)</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 4 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
+            <div>
+                <h5>MBA in Financial Management</h5>
+                <p>2008<br><small><a href="https://www.fbs-du.com/mis.php" target="_blank">Ladoke Akintoal University</a></small></p>
+            </div>
+        </div>
+
+        <!-- Education Card 5 -->
+        <div class="education-card">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Lagos_State_University_logo.png" alt="Graduation Cap">
+            <div>
+                <h5>PGD in Computer Science</h5>
+                <p>2006<br><small><a href="https://lasu.edu.ng/home/" target="_blank">Lagos State University (LASU)</a></small></p>
+            </div>
+        </div>
+
+                <!-- Education Card 6 -->
+        <div class="education-card">
+            <img src="https://www.pikpng.com/pngl/m/560-5602369_yaba-college-of-technology-logo-clipart.png" alt="Graduation Cap">
+            <div>
+                <h5>HND in Computer Science and Engineering</h5>
+                <p>2001<br><small><a href="https://www.yabatech.edu.ng/" target="_blank">Yaba College of Technology (YabaTech)</a></small></p>
+            </div>
+        </div>
+    </div>
+
+    
     <!-- Card Layout for Interests -->
     <div class="certification-layout">
         <!-- Interests Section Separator -->
@@ -286,49 +346,6 @@ redirect_from:
         </div>
     </div>
 
-    <!-- New Style for Education Section -->
-    <div class="education-layout">
-        <!-- Education Section Separator -->
-        <div class="separator">
-            <span>Education</span>
-        </div>
-
-        <!-- Education Card 1 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="Graduation Cap">
-            <div>
-                <h5>PhD in Computer Science and Engineering </h5>
-                <p>Expected - 2028<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Education Card 2 -->
-        <div class="education-card">
-            <img src="https://seeklogo.com/images/B/bangladesh-university-of-professionals-bup-logo-5B259AB69E-seeklogo.com.png" alt="Graduation Cap">
-            <div>
-                <h5>MSc in Information Systems Security (MISS)</h5>
-                <p>2018<br><small><a href="https://bup.edu.bd/academics/academic_details/464" target="_blank">Bangladesh University of Professionals (BUP)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Education Card 3 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
-            <div>
-                <h5>MBA in Management Information Systems</h5>
-                <p>2016<br><small><a href="https://www.fbs-du.com/mis.php" target="_blank">University of Dhaka (DU)</a></small></p>
-            </div>
-        </div>
-
-        <!-- Education Card 4 -->
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/BUET_LOGO.svg/1200px-BUET_LOGO.svg.png" alt="Graduation Cap">
-            <div>
-                <h5>BSc in Computer Science and Engineering</h5>
-                <p>2011<br><small><a href="https://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology (BUET)</a></small></p>
-            </div>
-        </div>
-    </div>
 </div>
 
 <footer>
