@@ -9,12 +9,6 @@ main:
   - title: "Experiences"
     url: /experiences/
 
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Publications"
-    url: /publications/
-
   - title: "Skills"
     url: /skills/
 
@@ -23,12 +17,3 @@ main:
 
   - title: "Affliations"
     url: /affliations/
-
-  - title: "Awards"
-    url: /awards/
-
-  - title: "Co-curricular"
-    url: /co-curricular/
-
-  - title: "Teaching Assistantships"
-    url: /teaching_assistantships/

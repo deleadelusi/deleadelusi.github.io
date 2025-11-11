@@ -282,7 +282,7 @@ redirect_from:
 
         <!-- Education Card 3 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/xxx.jpg" alt="Graduation Cap">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Lagos_State_University_logo.png" alt="Graduation Cap">
             <div>
                 <h5>Master in Business Computing</h5>
                 <p>2018<br><small><a href="https://pgcollege.ui.edu.ng/program.php?department=Computer%20Science" target="_blank">University of Ibadan (UI)</a></small></p>
@@ -291,10 +291,10 @@ redirect_from:
 
         <!-- Education Card 4 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg" alt="Graduation Cap">
+            <img src="https://myschoolportal.net/blog/download/ladoke-akintola-university-of-technology-logo/?ind=1730291078144&filename=ladoke-akintola-university-of-technology-logo-transparent.png" alt="Graduation Cap">
             <div>
                 <h5>MBA in Financial Management</h5>
-                <p>2008<br><small><a href="https://www.fbs-du.com/mis.php" target="_blank">Ladoke Akintoal University</a></small></p>
+                <p>2008<br><small><a href="https://www.lautech.edu.ng/" target="_blank">Ladoke Akintola University of Technology (LAUTECH)</a></small></p>
             </div>
         </div>
 
