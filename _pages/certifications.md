@@ -182,7 +182,7 @@ author_profile: true
 
 <!-- Accreditations & Credentials Section -->
 <div class="content">
-    <div class="separator">Cloud Computing & Infrstructure Management</div>
+    <div class="separator">Cloud Computing & Infrastructure Management</div>
 
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">

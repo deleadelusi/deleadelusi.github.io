@@ -223,22 +223,6 @@ author_profile: true
 <body>
 
 
-<!-- Card Layout for Academic Affiliations -->
-<div class="certification-layout">
-    <!-- Academic Affiliations Section Separator -->
-    <div class="separator">Academic Affiliations</div>
-    
-    <!-- Academic Affiliation Card 1 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
-            <div>
-                <h5>Student Affiliation</h5>
-                <p>Fall 2023 - Present<br><small><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/">The University of Texas at Arlington (UTA)</a></small></p>
-            </div>
-        </div>
-    </div>
-</div>
 
 <!-- Card Layout for Professional Affiliations -->
 <div class="certification-layout">
@@ -248,10 +232,10 @@ author_profile: true
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://www.theladders.com/s3proxy/company-photo.theladders.com/49272/911612f4-0250-425b-a25c-10d47fb4ee40.png" alt="ISACA Logo">
+            <img src="https://https://www.ncs.org.ng/wp-content/uploads/2017/06/cropped-NCS_LOGO-15.jpg" alt="NCS Logo">
             <div>
-                <h5>Silver Member</h5>
-                <p>2017 - Present<br><small><a href="https://www.isaca.org/">Information Systems Audit and Control Association (ISACA)</a></small></p>
+                <h5>Fellow & Life Member</h5>
+                <p>2017 - Present<br><small><a href="https://www.ncs.org.ng/about-ncs/">Nigeria Computer Society (NCS)</a></small></p>
             </div>
         </div>
     </div>
@@ -259,11 +243,11 @@ author_profile: true
     <!-- Professional Affiliation Card 2 -->
 	<div class="certification-card">
 	    <div class="education-card">
-	        <img src="https://i.pinimg.com/474x/f8/7f/63/f87f63a3051bdd134ead29fed3c1900b.jpg" alt="PMI Logo">
+	        <img src="https://nipes.org/wp-content/uploads/2024/05/NIPES_WEB_LOGO-removebg-preview-1.png" alt="NIPES Logo">
 	        <div>
-	            <h5>Member</h5>
-	            <p>2020 - Present<br>
-	                <small><a href="https://www.pmi.org/">Project Management Institute (PMI)</a></small>
+	            <h5>Fellow</h5>
+	            <p><br>
+	                <small><a href="https://nipes.org/">National Institute of Professional Engineers and Scientists (NIPES)</a></small>
 	            </p>
 	        </div>
 	    </div>
@@ -273,10 +257,10 @@ author_profile: true
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuF3SMnGPmv0ve0Xq2R3HV-yFA11BPtrnXg&s" alt="EC-Council Logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/480px-IEEE_logo.svg.png" alt="IEEE Logo">
             <div>
-                <h5>Member</h5>
-                <p>2016 - Present<br><small><a href="https://www.eccouncil.org/">EC-Council</a></small></p>
+                <h5>Professional Member</h5>
+                <p><br><small><a href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a></small></p>
             </div>
         </div>
     </div>
@@ -284,10 +268,10 @@ author_profile: true
     <!-- Professional Affiliation Card 4 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Institution_of_Engineers%2C_Bangladesh_Emblem.svg/1200px-Institution_of_Engineers%2C_Bangladesh_Emblem.svg.png" alt="IEB Logo">
+            <img src="https://networkencyclopedia.com/wp-content/uploads/2019/08/acm-1-300x174.png" alt="IEB Logo">
             <div>
                 <h5>Life Member</h5>
-                <p>2013 - Present<br><small><a href="https://www.iebbd.org/">The Institution of Engineers, Bangladesh (IEB)</a></small></p>
+                <p><br><small><a href="https://www.acm.org/about-acm">Professional Member - Association for Computing Machinery (ACM)</a></small></p>
             </div>
         </div>
     </div>
@@ -295,10 +279,10 @@ author_profile: true
     <!-- Professional Affiliation Card 5 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bangladesh_Computer_Society.svg/1200px-Bangladesh_Computer_Society.svg.png" alt="BCS Logo">
+            <img src="https://techeconomy.ng/wp-content/uploads/2023/05/CPN-Computer-Professionals-Registration-Council-of-Nigeria.jpg" alt="CPN Logo">
             <div>
-                <h5>Life Member</h5>
-                <p>2013 - Present<br><small><a href="https://www.bcsbd.org.bd/">Bangladesh Computer Society (BCS)</a></small></p>
+                <h5>Professional Member</h5>
+                <p><br><small><a href="https://cpn.gov.ng/metro/?ref=metro/content&list=cd/4">Computer Professionals (Registration Council) of Nigeria (CPN)</a></small></p>
             </div>
         </div>
     </div>

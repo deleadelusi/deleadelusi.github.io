@@ -291,7 +291,7 @@ redirect_from:
 
         <!-- Education Card 4 -->
         <div class="education-card">
-            <img src="https://myschoolportal.net/blog/download/ladoke-akintola-university-of-technology-logo/?ind=1730291078144&filename=ladoke-akintola-university-of-technology-logo-transparent.png" alt="Graduation Cap">
+            <img src="https://www.nigeriaschool.com.ng/wp-content/uploads/2014/09/Ladoke-Akintola-University-of-Technology-lautech.jpg" alt="Graduation Cap">
             <div>
                 <h5>MBA in Financial Management</h5>
                 <p>2008<br><small><a href="https://www.lautech.edu.ng/" target="_blank">Ladoke Akintola University of Technology (LAUTECH)</a></small></p>
