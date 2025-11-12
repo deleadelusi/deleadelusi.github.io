@@ -229,18 +229,7 @@ author_profile: true
     <!-- Professional Affiliations Section Separator -->
     <div class="separator">Professional Affiliations</div>
     
-        <!-- Professional Affiliation Card 1 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://https://www.ncs.org.ng/wp-content/uploads/2017/06/cropped-NCS_LOGO-15.jpg" alt="NCS Logo">
-            <div>
-                <h5>Fellow & Life Member</h5>
-                <p><big><a href="https://www.ncs.org.ng/about-ncs/">Nigeria Computer Society (NCS)</a></big></p>
-            </div>
-        </div>
-    </div>
-
-    <!-- Professional Affiliation Card 2 -->
+    <!-- Professional Affiliation Card 1 -->
 	<div class="certification-card">
 	    <div class="education-card">
 	        <img src="https://nipes.org/wp-content/uploads/2024/05/NIPES_WEB_LOGO-removebg-preview-1.png" alt="NIPES Logo">
@@ -250,7 +239,6 @@ author_profile: true
 	        </div>
 	    </div>
 	</div>
-
 
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
