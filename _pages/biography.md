@@ -325,7 +325,7 @@ redirect_from:
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-                <li>Machine Learning for Healthcare)</li>
+                <li>Machine Learning for Healthcare</li>
         		    <li>Artificial Intelligence</li>
         		    <li>Neural Networks and Deep Learning</li>
         		    <li>Microservices, Docker & Kubernetes Orchestration</li>

@@ -235,7 +235,7 @@ author_profile: true
             <img src="https://https://www.ncs.org.ng/wp-content/uploads/2017/06/cropped-NCS_LOGO-15.jpg" alt="NCS Logo">
             <div>
                 <h5>Fellow & Life Member</h5>
-                <p><big><a href="https://www.ncs.org.ng/about-ncs/">Nigeria Computer Society (NCS)</a></small></p>
+                <p><small><a href="https://www.ncs.org.ng/about-ncs/">Nigeria Computer Society (NCS)</a></small></p>
             </div>
         </div>
     </div>
