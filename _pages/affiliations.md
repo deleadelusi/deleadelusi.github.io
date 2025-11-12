@@ -246,8 +246,7 @@ author_profile: true
 	        <img src="https://nipes.org/wp-content/uploads/2024/05/NIPES_WEB_LOGO-removebg-preview-1.png" alt="NIPES Logo">
 	        <div>
 	            <h5>Fellow</h5>
-	            <p><br>
-	                <small><a href="https://nipes.org/">National Institute of Professional Engineers and Scientists (NIPES)</a></small>
+	            <p><big><a href="https://nipes.org/">National Institute of Professional Engineers and Scientists (NIPES)</a></big>
 	            </p>
 	        </div>
 	    </div>
@@ -260,7 +259,7 @@ author_profile: true
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/480px-IEEE_logo.svg.png" alt="IEEE Logo">
             <div>
                 <h5>Professional Member</h5>
-                <p><br><small><a href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a></small></p>
+                <p><big><a href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a></big></p>
             </div>
         </div>
     </div>
@@ -270,8 +269,8 @@ author_profile: true
         <div class="education-card">
             <img src="https://networkencyclopedia.com/wp-content/uploads/2019/08/acm-1-300x174.png" alt="IEB Logo">
             <div>
-                <h5>Life Member</h5>
-                <p><br><small><a href="https://www.acm.org/about-acm">Professional Member - Association for Computing Machinery (ACM)</a></small></p>
+                <h5>Professional Member</h5>
+                <p><big><a href="https://www.acm.org/about-acm">Association for Computing Machinery (ACM)</a></big></p>
             </div>
         </div>
     </div>
@@ -282,7 +281,7 @@ author_profile: true
             <img src="https://techeconomy.ng/wp-content/uploads/2023/05/CPN-Computer-Professionals-Registration-Council-of-Nigeria.jpg" alt="CPN Logo">
             <div>
                 <h5>Professional Member</h5>
-                <p><br><small><a href="https://www.bcsbd.org.bd/">Computer Professionals (Registration Council) of Nigeria (CPN)</a></small></p>
+                <p><big><a href="https://cpn.gov.ng/metro/?ref=metro/content&list=cd/4">Computer Professionals (Registration Council) of Nigeria (CPN)</a></big></p>
             </div>
         </div>
     </div>
