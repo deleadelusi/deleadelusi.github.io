@@ -229,16 +229,6 @@ author_profile: true
     <!-- Professional Affiliations Section Separator -->
     <div class="separator">Professional Affiliations</div>
     
-    <!-- Professional Affiliation Card 1 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://https://www.ncs.org.ng/wp-content/uploads/2017/06/cropped-NCS_LOGO-15.jpg" alt="NCS Logo">
-            <div>
-                <h5>Fellow & Life Member</h5>
-                <p><small><a href="https://www.ncs.org.ng/about-ncs/">Nigeria Computer Society (NCS)</a></small></p>
-            </div>
-        </div>
-    </div>
 
     <!-- Professional Affiliation Card 2 -->
 	<div class="certification-card">
