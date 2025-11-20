@@ -238,8 +238,8 @@ redirect_from:
         <!-- Biography Card without the Icon -->
         <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
-                <p>I am Bamidele Samuel Adelusi, a distinguished Software Developer, Data Scientist, Artificial Intelligence/Machine Learning Specialist, Cloud Solutions Architect and Business Intelligence Expert with over 15 years of experience developing software and applying data science and artificial intelligence (AI) to solve complex, real-world challenges across multiple sectors, including healthcare, retail, real estate, finance, SaaS, and beyond.
-                With a Master of Science in Data Analytics and Research from University of Texas at Dallas – United States of America, a Master in Business Computing from University of Ibadan - Nigeria, and a Master of Business Administration in Financial Management from Ladoke Akintola University - Nigeria. Prior to my Master degrees, I graduated with a Post Graduate Diploma in Computer Science from Lagos State University - Nigeria, and a Computer Science major from Yaba College of Technology, Nigeria where I began my Computer Science journey. Recently, I added an additional AWS Solution Architect Professional to the list of my procefessional certifications.</p>
+                <p>I am Bamidele Samuel Adelusi, a distinguished Software Developer, Data Scientist, Artificial Intelligence/Machine Learning Specialist, and Cloud Solutions Architect with over 15 years of experience developing software and applying data science and artificial intelligence (AI) to solve complex, real-world challenges across multiple sectors, including healthcare, retail, real estate, finance, SaaS, and beyond.</p>
+                <p>With a Master of Science in Data Analytics and Research from <a href="https://www.utdallas.edu/">University of Texas at Dallas – United States of America, a Master in Business Computing from <a href="https://ui.edu.ng/">University of Ibadan - Nigeria, and a Master of Business Administration in Financial Management from <a href="https://www.lautech.edu.ng/">Ladoke Akintola University - Nigeria. Prior to my Master degrees, I graduated with a Post Graduate Diploma in Computer Science from <a href="https://lasu.edu.ng/home/">Lagos State University - Nigeria, and a Computer Science major from <a href="https://yabatech.edu.ng/">Yaba College of Technology, Nigeria where I began my Computer Science journey. Recently, I added an additional AWS Solution Architect Professional to the list of my procefessional certifications.</p>
                 <p>My career spans a broad range of domains, including software development, data science, artificial intelligence, machine learning, data analytics, big data, cloud computing, systems administration, and infrastructure management. I have been responsible for designing strategies, overseeing the development and implementation of major systems initiatives, and managing multiple concurrent projects, involving complex system integrations and the deployment of innovative software applications. I have consistently delivered value by aligning technology solutions with strategic business objectives.
                 As a Software Engineer, Data Scientist, and Cloud Solutions Architect, I have applied this diverse skill sets to implement innovative and secure solutions, contributed to the growth and success of organizations.</p> 
                 <p>However, my expertise spans several critical areas of data science, but I am particularly skilled in predictive analytics and the development of AI-powered solutions that help businesses make data-driven decisions. I have built a strong reputation for my ability to develop machine learning models that help organizations anticipate future trends, forecast demand, optimize operations, and drive strategic growth. One of my key strengths lies in creating innovative, AI-driven business intelligence strategies that solve some of the most pressing problems faced by industries today.</p> 
@@ -249,7 +249,7 @@ redirect_from:
                 <!-- New Download CV section -->
                 <div class="cv-link-wrapper">
                     <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
-                    <a href="/files/DeleAdelusiResume2026.pdf" class="cv-link" target="_blank">Download my resumé / CV</a> 
+                    <a href="https://github.com/deleadelusi/deleadelusi.github.io/blob/main/files/Dele%20AdelusiResume2026.pdf" class="cv-link" target="_blank">Download my resumé / CV</a> 
                 </div>
             </div>
         </div>
@@ -291,7 +291,7 @@ redirect_from:
 
         <!-- Education Card 4 -->
         <div class="education-card">
-            <img src="https://image.pngaaa.com/389/995389-middle.png" alt="Graduation Cap">
+            <img src="https://universitycompass.com/universities/assets/images/Ladoke-Akintola-University-of-Technology.jpg" alt="Graduation Cap">
             <div>
                 <h5>MBA in Financial Management</h5>
                 <p>2008<br><small><a href="https://www.lautech.edu.ng/" target="_blank">Ladoke Akintola University of Technology (LAUTECH)</a></small></p>

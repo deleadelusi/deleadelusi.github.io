@@ -9,7 +9,7 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biography</title>
+    <title>affiliations</title>
     <style>
         /* General Body Style */
         body {
@@ -292,7 +292,7 @@ author_profile: true
             <img src="http://brand-experience.ieee.org/wp-content/uploads/2020/07/IEEE-CS_LogoTM-orange.png" alt="CPN Logo">
             <div>
                 <h5>Professional Member</h5>
-                <p><big><a href="https://cpn.gov.ng/metro/?ref=metro/content&list=cd/4">IEEE Computer Society</a></big></p>
+                <p><big><a href="https://www.computer.org/">IEEE Computer Society</a></big></p>
             </div>
         </div>
     </div>
