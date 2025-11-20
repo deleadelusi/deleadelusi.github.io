@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brief Profile"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Adelusi Bamidele Samuel"
 description              : &description "Ph.D. Student"

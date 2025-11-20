@@ -225,7 +225,7 @@ redirect_from:
 </div>
 
 <footer>
-    © 2024 by Adelusi Bamidele Samuel. All rights reserved.
+    © 2025 by Adelusi Bamidele Samuel. All rights reserved.
 </footer>
 
 </body>

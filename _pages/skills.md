@@ -133,7 +133,7 @@ author_profile: true
     
     <div class="item">
         <img src="https://cdn-icons-png.flaticon.com/512/4319/4319147.png" alt="Cloud Icon">
-        <p>AWS, GCP</p>
+        <p>AWS, Azure, GCP</p>
         <p class="subtext">Cloud Computing</p>
     </div>  
 
