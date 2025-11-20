@@ -198,7 +198,7 @@ author_profile: true
 
         <div class="certification-card">
             <img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="Certified SysOps Administrator Icon">
-            <h6>•	AWS Certified SysOps Administrator – Associate</h6>
+            <h6>AWS Certified SysOps Administrator – Associate</h6>
         </div>  
 
         <div class="certification-card">
