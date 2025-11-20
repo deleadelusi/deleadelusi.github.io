@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /skills_&_certifications/
+permalink: /skills/
 author_profile: true
 ---
 

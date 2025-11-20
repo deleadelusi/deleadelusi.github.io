@@ -207,7 +207,7 @@ author_profile: true
         </div>
 
        <div class="certification-card">
-            <img src="hhttps://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Certified Cloud Practitioner Icon">
+            <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Cloud Practitioner Icon">
             <h6>AWS Certified Cloud Practitioner</h6>
         </div>
 

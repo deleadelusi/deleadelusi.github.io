@@ -282,7 +282,7 @@ redirect_from:
 
         <!-- Education Card 3 -->
         <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Lagos_State_University_logo.png" alt="Graduation Cap">
+            <img src="https://3.bp.blogspot.com/-4VQhkg9h7x8/W69d4xGMGWI/AAAAAAAACKA/hAJVHR2NlNAv-HssddGgJXIFcsHkDVi4ACLcBGAs/s1600/University%2Bof%2BIbadan%2B%2528UI%2529%2BDepartmental%2BCut%2BOff%2BMarks%2B%2528UPDATED%2529.png" alt="Graduation Cap">
             <div>
                 <h5>Master in Business Computing</h5>
                 <p>2018<br><small><a href="https://pgcollege.ui.edu.ng/program.php?department=Computer%20Science" target="_blank">University of Ibadan (UI)</a></small></p>
@@ -309,7 +309,7 @@ redirect_from:
 
                 <!-- Education Card 6 -->
         <div class="education-card">
-            <img src="https://www.pikpng.com/pngl/m/560-5602369_yaba-college-of-technology-logo-clipart.png" alt="Graduation Cap">
+            <img src="https://www.yabatech.edu.ng/yabawebadmin/upploads/61de664778bd0.png" alt="Graduation Cap">
             <div>
                 <h5>HND in Computer Science and Engineering</h5>
                 <p>2001<br><small><a href="https://www.yabatech.edu.ng/" target="_blank">Yaba College of Technology (YabaTech)</a></small></p>
