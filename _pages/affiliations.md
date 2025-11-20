@@ -232,7 +232,7 @@ author_profile: true
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://https://www.ncs.org.ng/wp-content/uploads/2017/06/cropped-NCS_LOGO-15.jpg" alt="NCS Logo">
+            <img src="https://www.ncs.org.ng/wp-content/uploads/2017/06/cropped-NCS_LOGO-7.jpg" alt="NCS Logo">
             <div>
                 <h5>Fellow & Life Member</h5>
                 <p><big><a href="https://www.ncs.org.ng/about-ncs/">Nigeria Computer Society (NCS)</a></big></p>
@@ -278,7 +278,7 @@ author_profile: true
     <!-- Professional Affiliation Card 5 -->
     <div class="certification-card">
         <div class="education-card">
-            <img src="https://techeconomy.ng/wp-content/uploads/2023/05/CPN-Computer-Professionals-Registration-Council-of-Nigeria.jpg" alt="CPN Logo">
+            <img src="https://www.ncs.org.ng/wp-content/uploads/2024/07/CPN.jpg" alt="CPN Logo">
             <div>
                 <h5>Professional Member</h5>
                 <p><big><a href="https://cpn.gov.ng/metro/?ref=metro/content&list=cd/4">Computer Professionals (Registration Council) of Nigeria (CPN)</a></big></p>

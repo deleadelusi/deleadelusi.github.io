@@ -182,32 +182,32 @@ author_profile: true
 
 <!-- Accreditations & Credentials Section -->
 <div class="content">
-    <div class="separator">Cloud Computing & Infrastructure Management</div>
+    <div class="separator">Cloud Computing - Amazon Web Services</div>
 
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
         <div class="certification-card">
-            <img src="https://wiki.agileana.com/images/6/68/PMP_project_management_professional_certification_badge.png" alt="PMP Icon">
+            <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="Certified Solutions Architect Icon">
             <h6>AWS Certified Solutions Architect – Professional</h6>
         </div>
 
        <div class="certification-card">
-            <img src="https://appliedtechnologyacademy.com/wp-content/uploads/2024/03/crisc_logo_rgb.webp" alt="CRISC Icon">
+            <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate Icon">
             <h6>AWS Certified Developer – Associate</h6>
         </div>
 
         <div class="certification-card">
-            <img src="https://appliedtechnologyacademy.com/wp-content/uploads/2024/03/crisc_logo_rgb.webp" alt="CRISC Icon">
+            <img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="Certified SysOps Administrator Icon">
             <h6>•	AWS Certified SysOps Administrator – Associate</h6>
         </div>  
 
         <div class="certification-card">
-            <img src="https://bestiimm.com/wp-content/uploads/2023/12/lss-black-belt.png" alt="Lean Six Sigma Black Belt Icon">
+            <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Icon">
             <h6>AWS Certified Solutions Architect – Associate</h6>
         </div>
 
        <div class="certification-card">
-            <img src="https://www.tascmanagement.com/wp-content/uploads/2016/03/LOGO_ISO-IEC27001-Lead-Implementer.png" alt="ISO/IEC 27001 Lead Implementer Icon">
+            <img src="hhttps://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Certified Cloud Practitioner Icon">
             <h6>AWS Certified Cloud Practitioner</h6>
         </div>
 
@@ -221,14 +221,11 @@ author_profile: true
     <!-- Two-Column Layout for Cards -->
     <div class="certification-layout">
          <div class="certification-card">
-            <img src="https://principledefence.com/wp-content/uploads/2022/09/ISO-27701-certified.jpg" alt="ISO/IEC 27701 Icon">
+            <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals Icon">
             <h6>Azure Fundamentals</h6>
         </div>
 
-        <div class="certification-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62vFTrUUXr_U1IiTyzAEzLQJyT9H5FBOSag&s" alt="ITIL Foundation Icon">
-            <h6>ITIL Foundation</h6>
-        </div>
+      
     </div>
 </div>
 
