@@ -227,7 +227,7 @@ author_profile: true
 <!-- Card Layout for Professional Affiliations -->
 <div class="certification-layout">
     <!-- Professional Affiliations Section Separator -->
-    <div class="separator">Professional Affiliations</div>
+    <div class="separator">Media Mentions</div>
     
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">
@@ -242,60 +242,40 @@ author_profile: true
 
     <!-- Professional Affiliation Card 2 -->
 	<div class="certification-card">
-	    <div class="education-card">
-	        <img src="https://nipes.org/wp-content/uploads/2024/05/NIPES_WEB_LOGO-removebg-preview-1.png" alt="NIPES Logo">
+	    
+	        <img src="https://newspaperlocator.nln.gov.ng/img/bg-img/thisday_logo.png" alt="ThisDay Logo">
 	        <div>
-	            <h5>Fellow</h5>
-	            <p><big><a href="https://nipes.org/">National Institute of Professional Engineers and Scientists (NIPES)</a></big>
+	            <h5>2022</h5>
+	            <p><big><a href="https://www.thisdaylive.com/2022/12/01/expert-outlines-next-gen-data-lineage-and-governance-frameworks-in-modern-cloud-environments/">Expert Outlines Next-Gen Data Lineage and Governance Frameworks in Modern Cloud Environments</a></big>
 	            </p>
 	        </div>
-	    </div>
+	    
 	</div>
 
 
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
-        <div class="education-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/480px-IEEE_logo.svg.png" alt="IEEE Logo">
+        
+            <img src="https://www.ekoatlantic.com/wp-content/uploads/2013/10/Guardian_Nigeria_logo.png" alt="IEEE Logo">
             <div>
-                <h5>Professional Member</h5>
-                <p><big><a href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a></big></p>
+                <h5>December 2023</h5>
+                <p><big><a href="https://guardian.ng/features/computer-scientist-bamidele-adelusi-redefines-preventive-healthcare-with-ai-and-wearable-technologies/">Computer scientist Bamidele Adelusi redefines preventive healthcare with AI and wearable technologies</a></big></p>
             </div>
-        </div>
+       
     </div>
 
     <!-- Professional Affiliation Card 4 -->
     <div class="certification-card">
-        <div class="education-card">
-            <img src="https://networkencyclopedia.com/wp-content/uploads/2019/08/acm-1-300x174.png" alt="IEB Logo">
+      
+            <img src="https://dailytimesng.com/bamidele-adelusi-advances-ai-in-healthcare-with-breakthrough-study-on-diabetes-prediction/" alt="IEB Logo">
             <div>
-                <h5>Professional Member</h5>
-                <p><big><a href="https://www.acm.org/about-acm">Association for Computing Machinery (ACM)</a></big></p>
+                
+                <p><big><a href="https://www.acm.org/about-acm">Bamidele Adelusi Advances AI in Healthcare with Breakthrough Study on Diabetes Prediction</a></big></p>
             </div>
-        </div>
+       
     </div>
 
-    <!-- Professional Affiliation Card 5 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="https://www.ncs.org.ng/wp-content/uploads/2024/07/CPN.jpg" alt="CPN Logo">
-            <div>
-                <h5>Professional Member</h5>
-                <p><big><a href="https://cpn.gov.ng/metro/?ref=metro/content&list=cd/4">Institute of Electrical and Electronics Engineers (IEEE)</a></big></p>
-            </div>
-        </div>
-    </div>
 
-    <!-- Professional Affiliation Card 6 -->
-    <div class="certification-card">
-        <div class="education-card">
-            <img src="http://brand-experience.ieee.org/wp-content/uploads/2020/07/IEEE-CS_LogoTM-orange.png" alt="CPN Logo">
-            <div>
-                <h5>Professional Member</h5>
-                <p><big><a href="https://www.computer.org/">IEEE Computer Society</a></big></p>
-            </div>
-        </div>
-    </div>
 </div>
 
 
