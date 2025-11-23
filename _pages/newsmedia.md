@@ -234,7 +234,7 @@ author_profile: true
       
             <img src="https://digitalpaper.vanguardngr.com/wp-content/uploads/2021/07/van-app-logo.png" alt="Vanguard Logo">
           
-              
+               <h5>May 2024</h5>
                 <p><big><a href="https://www.vanguardngr.com/2024/05/building-trust-in-the-age-of-smart-machines-expert-outlines-tech-driven-path-to-ethical-ai-and-data-governance/">Building Trust in the Age of Smart Machines: Expert outlines tech-driven path to ethical AI and data governance</a></big></p>
           
       
@@ -256,7 +256,7 @@ author_profile: true
     <!-- Professional Affiliation Card 3 -->
     <div class="certification-card">
         
-            <img src="https://www.ekoatlantic.com/wp-content/uploads/2013/10/Guardian_Nigeria_logo.png" alt="IEEE Logo">
+            <img src="https://www.ekoatlantic.com/wp-content/uploads/2013/10/Guardian_Nigeria_logo.png" alt="Guardian Logo">
             <div>
                 <h5>December 2023</h5>
                 <p><big><a href="https://guardian.ng/features/computer-scientist-bamidele-adelusi-redefines-preventive-healthcare-with-ai-and-wearable-technologies/">Computer scientist Bamidele Adelusi redefines preventive healthcare with AI and wearable technologies</a></big></p>
@@ -267,10 +267,10 @@ author_profile: true
     <!-- Professional Affiliation Card 4 -->
     <div class="certification-card">
       
-            <img src="https://dailytimesng.com/bamidele-adelusi-advances-ai-in-healthcare-with-breakthrough-study-on-diabetes-prediction/" alt="IEB Logo">
+            <img src="https://dailytimesng.com/wp-content/uploads/2020/07/dailytimes_logo_new22.png" alt="dailytimes Logo">
             <div>
-                
-                <p><big><a href="https://www.acm.org/about-acm">Bamidele Adelusi Advances AI in Healthcare with Breakthrough Study on Diabetes Prediction</a></big></p>
+                <h5>June 2022</h5>
+                <p><big><a href="https://dailytimesng.com/bamidele-adelusi-advances-ai-in-healthcare-with-breakthrough-study-on-diabetes-prediction/">Bamidele Adelusi Advances AI in Healthcare with Breakthrough Study on Diabetes Prediction</a></big></p>
             </div>
        
     </div>
