@@ -231,19 +231,18 @@ author_profile: true
     
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">
-      
+     
             <img src="https://digitalpaper.vanguardngr.com/wp-content/uploads/2021/07/van-app-logo.png" alt="Vanguard Logo">
-          
+          <div>
                <h5>May 2024</h5>
                 <p><big><a href="https://www.vanguardngr.com/2024/05/building-trust-in-the-age-of-smart-machines-expert-outlines-tech-driven-path-to-ethical-ai-and-data-governance/">Building Trust in the Age of Smart Machines: Expert outlines tech-driven path to ethical AI and data governance</a></big></p>
-          
-      
+          </div>
     </div>
 
     <!-- Professional Affiliation Card 2 -->
 	<div class="certification-card">
 	    
-	        <img src="https://newspaperlocator.nln.gov.ng/img/bg-img/thisday_logo.png" alt="ThisDay Logo">
+	        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/37acbe25257627.563434567b60d.jpg" alt="ThisDay Logo">
 	        <div>
 	            <h5>2022</h5>
 	            <p><big><a href="https://www.thisdaylive.com/2022/12/01/expert-outlines-next-gen-data-lineage-and-governance-frameworks-in-modern-cloud-environments/">Expert Outlines Next-Gen Data Lineage and Governance Frameworks in Modern Cloud Environments</a></big>
