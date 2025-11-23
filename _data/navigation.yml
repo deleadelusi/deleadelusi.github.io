@@ -3,9 +3,6 @@ main:
   - title: "Resume"
     url: /files/DeleAdelusiResume2026.pdf
 
-  - title: "Updates"
-    url: /updates/
-
   - title: "Skills"
     url: /skills/
 
@@ -14,3 +11,6 @@ main:
 
   - title: "Affiliations"
     url: /affiliations/
+
+  - title: "Media Mentions"
+    url: /newsmedia/

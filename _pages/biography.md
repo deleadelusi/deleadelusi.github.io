@@ -238,7 +238,7 @@ redirect_from:
         <!-- Biography Card without the Icon -->
         <div class="certification-card" style="grid-column: 1 / -1;">
             <div>
-                <p>I am Bamidele Samuel Adelusi, a distinguished Software Developer, Data Scientist, Artificial Intelligence/Machine Learning Researcher, and Cloud Solutions Architect with over 15 years of experience developing software and applying data science and artificial intelligence (AI) to solve complex, real-world challenges across multiple sectors, including healthcare, retail, real estate, finance, SaaS, and beyond.</p>
+                <p>I am Bamidele Samuel Adelusi, a distinguished Software Developer, Data Scientist, Cloud Solutions Architect, and Artificial Intelligence/Machine Learning Researcher with over 15 years of experience developing software and applying data science and artificial intelligence (AI) to solve complex, real-world challenges across multiple sectors, including healthcare, retail, real estate, finance, SaaS, and beyond.</p>
                 <p>With a Master of Science in Data Analytics and Research from <a href="https://www.utdallas.edu/">University of Texas at Dallas – United States of America</a>, a Master in Business Computing from <a href="https://ui.edu.ng/">University of Ibadan - Nigeria</a>, and a Master of Business Administration in Financial Management from <a href="https://www.lautech.edu.ng/">Ladoke Akintola University - Nigeria</a>. Prior to my Master degrees, I graduated with a Post Graduate Diploma in Computer Science from <a href="https://lasu.edu.ng/home/">Lagos State University - Nigeria</a>, and a Computer Science major from <a href="https://yabatech.edu.ng/">Yaba College of Technology, Nigeria</a> where I began my Computer Science journey. Recently, I added an additional AWS Solution Architect Professional to the list of my procefessional certifications.</p>
                 <p>My career spans a broad range of domains, including software development, data science, artificial intelligence, machine learning, data analytics, big data, cloud computing, systems administration, and infrastructure management. I have been responsible for designing strategies, overseeing the development and implementation of major systems initiatives, and managing multiple concurrent projects, involving complex system integrations and the deployment of innovative software applications. I have consistently delivered value by aligning technology solutions with strategic business objectives.
                 As a Software Engineer, Data Scientist, and Cloud Solutions Architect, I have applied this diverse skill sets to implement innovative and secure solutions, contributed to the growth and success of organizations.</p> 
@@ -249,7 +249,7 @@ redirect_from:
                 <!-- New Download CV section -->
                 <div class="cv-link-wrapper">
                     <img src="https://www.oiml.org/en/ressources/icons/download-button.jpg/@@images/3139e560-3f59-4ee9-a5e4-71f0ee9535eb.png" alt="Download Icon">
-                    <a href="https://github.com/deleadelusi/deleadelusi.github.io/blob/main/files/Dele%20AdelusiResume2026.pdf" class="cv-link" target="_blank">Download my resumé / CV</a> 
+                    <a href="https://github.com/deleadelusi/deleadelusi.github.io/blob/main/files/DeleAdelusiResume2026.pdf" class="cv-link" target="_blank">Download my resumé / CV</a> 
                 </div>
             </div>
         </div>
@@ -325,10 +325,10 @@ redirect_from:
         <!-- Interests Card 1 -->
         <div class="certification-card">
             <div>
-                <li>Machine Learning for Healthcare</li>
-        		    <li>Artificial Intelligence</li>
-        		    <li>Neural Networks and Deep Learning</li>
-        		    <li>Microservices, Docker & Kubernetes Orchestration</li>
+                <li>Intelligent Systems/Artificial Intelligence & Machine Learning</li>
+                <li>Neural Networks and Deep Learning</li>
+                <li>Big Data and Data Science</li>
+        		<li>Microservices, Docker & Kubernetes Orchestration</li>
             </div>
         </div>
 
@@ -337,8 +337,8 @@ redirect_from:
             <div>
                 <li>Cloud Computing & Infrastructure as Code</li>
                 <li>Digital Transformation & Cloud-Native Modernization</li>
-                <li>Software Engineering</li>
-                <li>Data Mining</li>
+                <li>Software Engineering & Databases</li>
+                <li>Data Mining, Bioinformatics and Health Informatics</li>
             </div>
         </div>
     </div>
