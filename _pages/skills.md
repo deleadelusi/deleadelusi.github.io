@@ -189,10 +189,18 @@ author_profile: true
 
     <div class="item">
         <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/204141243/original/d11ae65c36ac8119f6969a414afd1462ff16713d/a-database-design-and-integration-using-the-mysql-and-mongodb-database.png" alt="Database Icon">
+        <p>MySQL, MongoDB</p>
+        <p class="subtext">Databases</p>
+    </div>
+
+    <div class="item">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="vectorlogo.zone">
         <p>MySQL, MongoDB</p>
         <p class="subtext">Databases</p>
     </div>
+
+
+
 
     <div class="item">
         <img src="https://cdn-icons-png.flaticon.com/256/8293/8293467.png" alt="IT Audit">
@@ -253,12 +261,15 @@ author_profile: true
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"
                 alt="vectorlogo.zone">
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="vectorlogo.zone">
+        <p class="subtext">Frameworks</p>
+    </div>
+
+    <div class="item">
             <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"
                 alt="vectorlogo.zone">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="vectorlogo.zone">
         <p class="subtext">Frameworks</p>
     </div>
-
 
 
 </div>
