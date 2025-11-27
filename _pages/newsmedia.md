@@ -227,7 +227,7 @@ author_profile: true
 <!-- Card Layout for Professional Affiliations -->
 <div class="certification-layout">
     <!-- Professional Affiliations Section Separator -->
-    <div class="separator">Media Mentions</div>
+    <div class="separator">News Media Mentions</div>
     
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">

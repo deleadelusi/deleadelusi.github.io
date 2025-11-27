@@ -194,25 +194,6 @@ author_profile: true
     </div>
 
     <div class="item">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="vectorlogo.zone">
-        <p>MySQL, MongoDB</p>
-        <p class="subtext">Databases</p>
-    </div>
-
-
-
-    <div class="item">
-        <span>
-        <img src="https://media.licdn.com/dms/image/D4D12AQG5hXvJJSbzsA/article-cover_image-shrink_600_2000/0/1696567657381?e=2147483647&v=beta&t=VwrFw3BHCE2jtPtI4oEnEb2NKnbcV624fKWznzD9R1w" alt="VAPT Tools">
-        <img src="https://w7.pngwing.com/pngs/286/446/png-transparent-burp-suite-macos-bigsur-icon.png" alt="VAPT Tools">
-        </span>        
-        <p>NMAP, Nessus, Burpsuite</p>
-        <p class="subtext">VAPT Tools</p>
-    </div>
-
-
-
-    <div class="item">
         <img src="https://static.vecteezy.com/system/resources/previews/021/761/374/original/incident-management-icon-style-vector.jpg" alt="ITIL">
         <p>ITIL, ISO</p>
         <p class="subtext">IT Incident Management</p>
@@ -232,14 +213,17 @@ author_profile: true
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"
                 alt="vectorlogo.zone">
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="vectorlogo.zone">
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"
+            alt="vectorlogo.zone">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"       alt="vectorlogo.zone">   
         <p class="subtext">Frameworks</p>
     </div>
 
     <div class="item">
-            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="vectorlogo.zone">
+            <img class="ml-2" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"
                 alt="vectorlogo.zone">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="vectorlogo.zone">
-        <p class="subtext">Frameworks</p>
+           <p class="subtext">Version Control</p>
     </div>
 
 

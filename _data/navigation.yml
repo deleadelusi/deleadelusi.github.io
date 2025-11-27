@@ -3,6 +3,9 @@ main:
   - title: "Resume"
     url: /files/DeleAdelusiResume2026.pdf
 
+  - title: "Publications"
+    url: /publications/
+    
   - title: "Skills"
     url: /skills/
 
