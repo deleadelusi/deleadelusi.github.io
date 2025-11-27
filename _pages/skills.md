@@ -189,6 +189,7 @@ author_profile: true
 
     <div class="item">
         <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/204141243/original/d11ae65c36ac8119f6969a414afd1462ff16713d/a-database-design-and-integration-using-the-mysql-and-mongodb-database.png" alt="Database Icon">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="vectorlogo.zone">
         <p>MySQL, MongoDB</p>
         <p class="subtext">Databases</p>
     </div>
@@ -240,25 +241,21 @@ author_profile: true
 
 
     <div class="item">
-            <img class="ml-2" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"
+            <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"
                 alt="vectorlogo.zone" height="50" width="150">
-            <img class="ml-2" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
+            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
                 alt="vectorlogo.zone">
-            <img class="ml-2" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"
-                alt="vectorlogo.zone" height="50" width="120">
-            <img class="ml-2" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"
-                alt="vectorlogo.zone" height="70" width="130">
+            <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="vectorlogo.zone">
             <p class="subtext">Languages and Databases</p>
-       <p></p>
     </div>
 
    <div class="item">
-            <img class="ml-2" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"
                 alt="vectorlogo.zone">
-            <img class="ml-2" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="vectorlogo.zone">
-            <img class="ml-2" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="vectorlogo.zone">
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"
                 alt="vectorlogo.zone">
-            <img class="ml-2" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50" alt="vectorlogo.zone">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="vectorlogo.zone">
         <p class="subtext">Frameworks</p>
     </div>
 
