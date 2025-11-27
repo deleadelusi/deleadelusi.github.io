@@ -239,11 +239,7 @@ author_profile: true
     </div>
 
 
-    <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100"
-        style="background:var(--light-gray); border:solid var(--blue-medium) 2px">
-        <h4 class="mt-4 font-weight-bold" style="text-align:left;color:var(--blue-light)"><i
-                class="fa-solid fa-code mr-2"></i>Languages and Databases</h4>
-        <p style="text-align:left;">
+    <div class="item">
             <img class="ml-2" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"
                 alt="vectorlogo.zone" height="50" width="150">
             <img class="ml-2" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
@@ -252,9 +248,20 @@ author_profile: true
                 alt="vectorlogo.zone" height="50" width="120">
             <img class="ml-2" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"
                 alt="vectorlogo.zone" height="70" width="130">
-
-        </p>
+            <p class="subtext">Languages and Databases</p>
+       <p></p>
     </div>
+
+   <div class="item">
+            <img class="ml-2" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"
+                alt="vectorlogo.zone">
+            <img class="ml-2" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="vectorlogo.zone">
+            <img class="ml-2" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"
+                alt="vectorlogo.zone">
+            <img class="ml-2" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50" alt="vectorlogo.zone">
+        <p class="subtext">Frameworks</p>
+    </div>
+
 
 
 </div>
