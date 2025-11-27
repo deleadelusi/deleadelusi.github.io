@@ -141,23 +141,20 @@ author_profile: true
     <div class="experience-container">
 
       <div class="experience-card">
-        <h3>HuggingGraph: Understanding the Supply Chain of LLM Ecosystem</h3>
-
-        <div class="link-row">
-          <span class="link-label">Links:</span>
-          <a href="https://arxiv.org/abs/2507.14240" target="_blank" rel="noopener noreferrer">Paper_CIKM</a>
-          <a href="https://arxiv.org/abs/2507.14240" target="_blank" rel="noopener noreferrer">Paper_arXiv</a>
-          <a href="https://github.com/SC-Lab-Go/HuggingGraph" target="_blank" rel="noopener noreferrer">Dataset</a>
-          <a href="https://ai-supply-chain.github.io/" target="_blank" rel="noopener noreferrer">Simulator</a>
+        <h3>HuggingGraph: Some selected Publications</h3>
+        <div class>
+        1.	Adelusi, B.S., Osamika, D., Kelvin-Agwu, M.C., Mustapha, A.Y. and Ikhalea, N. (2022). <big><a href=doi:https://doi.org/10.54660/.ijfmr.2022.3.1.47-56>A Deep Learning Approach to Predicting Diabetes Mellitus Using Electronic Health Records</a></big>Journal of Frontiers in Multidisciplinary Research
         </div>
+
 
         <div class="section-header">Abstract</div>
         <div class="section-content">
-          <p>Large language models (LLMs) leverage deep learning architectures to process and predict sequences of words, enabling them to perform a wide range of natural language processing tasks, such as translation, summarization, question answering, and content generation. As existing LLMs are often built from base models or other pre-trained models and use external datasets, they can inevitably inherit vulnerabilities, biases, or malicious components that exist in previous models or datasets. Therefore, it is critical to understand these components’ origin and development process to detect potential risks, improve model fairness, and ensure compliance with regulatory frameworks. Motivated by that, this project aims to study such relationships between models and datasets, which are the central parts of the LLM supply chain. First, we design a methodology to systematically collect LLMs’ supply chain information. Then, we design a new graph to model the relationships between models and datasets, which is a directed heterogeneous graph, having 402,654 nodes and 462,524 edges. Lastly, we perform different types of analysis and make multiple interesting findings.</p>
+          <p>2.	Adelusi, B.S., Osamika, D., Chinyeaka Kelvin-Agwu, M., Mustapha, A.Y. and Ikhalea, N. (2023). Integrating Wearable Sensor Data with Machine Learning for Early Detection of Non-Communicable Diseases. Iconic Research and Engineering Journals, [online] 7(4), pp.647–659. Available at: https://www.irejournals.com/paper-details/1705169.</p>
+          <p>3.	Damilola Osamika, Bamidele Samuel Adelusi, MariaTheresa Chinyeaka Kelvin-Agwu, Mustapha, A.Y. and Nura Ikhalea (2021). Machine Learning Models for Early Detection of Cardiovascular Diseases: A Systematic Review. Iconic Research and Engineering Journals, [online] 4(12), pp.355–368. Available at: https://www.irejournals.com/paper-details/1702780.</p>
         </div>
       </div>
 
-      <!-- Duplicate .experience-card blocks here for additional publications -->
+
 
     </div>
   </div>
