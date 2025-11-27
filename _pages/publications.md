@@ -141,12 +141,12 @@ author_profile: true
     <div class="experience-container">
 
       <div class="experience-card">
-        <h3>HuggingGraph: Some selected Publications</h3>
+      
         <div class>
-        1.	Adelusi, B.S., Osamika, D., Kelvin-Agwu, M.C., Mustapha, A.Y. and Ikhalea, N. (2022). <big><a href=doi:https://doi.org/10.54660/.ijfmr.2022.3.1.47-56>A Deep Learning Approach to Predicting Diabetes Mellitus Using Electronic Health Records</a></big>Journal of Frontiers in Multidisciplinary Research
+          <p>1.	Adelusi, B.S., Osamika, D., Kelvin-Agwu, M.C., Mustapha, A.Y. and Ikhalea, N. (2022).<big><a href="https://doi.org/10.54660/.ijfmr.2022.3.1.47-56">A Deep Learning Approach to Predicting Diabetes Mellitus Using Electronic Health Records</a></big>Journal of Frontiers in Multidisciplinary Research</p>
         </div>
 
-
+  
         <div class="section-header">Abstract</div>
         <div class="section-content">
           <p>2.	Adelusi, B.S., Osamika, D., Chinyeaka Kelvin-Agwu, M., Mustapha, A.Y. and Ikhalea, N. (2023). Integrating Wearable Sensor Data with Machine Learning for Early Detection of Non-Communicable Diseases. Iconic Research and Engineering Journals, [online] 7(4), pp.647–659. Available at: https://www.irejournals.com/paper-details/1705169.</p>
