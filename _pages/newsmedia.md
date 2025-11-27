@@ -244,11 +244,10 @@ author_profile: true
 	    
 	        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/37acbe25257627.563434567b60d.jpg" alt="ThisDay Logo">
 	        <div>
-	            <h5>2022</h5>
-	            <p><big><a href="https://www.thisdaylive.com/2022/12/01/expert-outlines-next-gen-data-lineage-and-governance-frameworks-in-modern-cloud-environments/">Expert Outlines Next-Gen Data Lineage and Governance Frameworks in Modern Cloud Environments</a></big>
+	            <h5>December 2022</h5>
+	            <p><big><a href="https://www.facebook.com/photo.php?fbid=10153978269107160&set=p.10153978269107160&type=3&from_lookaside=1">Expert Outlines Next-Gen Data Lineage and Governance Frameworks in Modern Cloud Environments</a></big>
 	            </p>
-	        </div>
-	    
+	        </div>   
 	</div>
 
 
@@ -260,7 +259,6 @@ author_profile: true
                 <h5>December 2023</h5>
                 <p><big><a href="https://guardian.ng/features/computer-scientist-bamidele-adelusi-redefines-preventive-healthcare-with-ai-and-wearable-technologies/">Computer scientist Bamidele Adelusi redefines preventive healthcare with AI and wearable technologies</a></big></p>
             </div>
-       
     </div>
 
     <!-- Professional Affiliation Card 4 -->
@@ -270,8 +268,7 @@ author_profile: true
             <div>
                 <h5>June 2022</h5>
                 <p><big><a href="https://dailytimesng.com/bamidele-adelusi-advances-ai-in-healthcare-with-breakthrough-study-on-diabetes-prediction/">Bamidele Adelusi Advances AI in Healthcare with Breakthrough Study on Diabetes Prediction</a></big></p>
-            </div>
-       
+            </div>  
     </div>
 
 
