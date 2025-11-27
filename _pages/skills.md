@@ -201,31 +201,6 @@ author_profile: true
 
 
 
-
-    <div class="item">
-        <img src="https://cdn-icons-png.flaticon.com/256/8293/8293467.png" alt="IT Audit">
-        <p>ISO, ITAF</p>
-        <p class="subtext">IT Audit</p>
-    </div>
-
-    <div class="item">
-        <img src="https://cdn-icons-png.flaticon.com/512/5671/5671489.png" alt="SIEM">
-        <p>SIEM, XDR, EDR</p>
-        <p class="subtext">Threat Detection and Defense Tools</p>
-    </div>
-
-    <div class="item">
-        <img src="https://cdn.prod.website-files.com/606d79a3190d3a764c032a2c/6462496836e0a5e0bafd9d04_Frame%201817%20(1).png" alt="SOAR">
-        <p>SOAR, Threat Intel</p>
-        <p class="subtext">Threat Intelligence and Incident Response Platform</p>
-    </div>
-
-    <div class="item">
-        <img src="https://www.shutterstock.com/image-vector/dlp-data-loss-prevention-acronym-260nw-2401819555.jpg" alt="DLP">
-        <p>DLP, MDM</p>
-        <p class="subtext">Data Privacy Tools</p>
-    </div>
-
     <div class="item">
         <span>
         <img src="https://media.licdn.com/dms/image/D4D12AQG5hXvJJSbzsA/article-cover_image-shrink_600_2000/0/1696567657381?e=2147483647&v=beta&t=VwrFw3BHCE2jtPtI4oEnEb2NKnbcV624fKWznzD9R1w" alt="VAPT Tools">
@@ -235,11 +210,7 @@ author_profile: true
         <p class="subtext">VAPT Tools</p>
     </div>
 
-    <div class="item">
-        <img src="https://www.ideagen.com/media/11748/grc-circle.png" alt="GRC">
-        <p>GRC, ISO, COBIT</p>
-        <p class="subtext">GRC</p>
-    </div>
+
 
     <div class="item">
         <img src="https://static.vecteezy.com/system/resources/previews/021/761/374/original/incident-management-icon-style-vector.jpg" alt="ITIL">
@@ -250,11 +221,11 @@ author_profile: true
 
     <div class="item">
             <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"
-                alt="vectorlogo.zone" height="50" width="150">
+                alt="vectorlogo.zone">
             <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
                 alt="vectorlogo.zone">
             <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="vectorlogo.zone">
-            <p class="subtext">Languages and Databases</p>
+            <p class="subtext">Scripting Languages</p>
     </div>
 
    <div class="item">

@@ -231,7 +231,6 @@ author_profile: true
     
     <!-- Professional Affiliation Card 1 -->
     <div class="certification-card">
-     
             <img src="https://digitalpaper.vanguardngr.com/wp-content/uploads/2021/07/van-app-logo.png" alt="Vanguard Logo">
           <div>
                <h5>May 2024</h5>
@@ -241,7 +240,6 @@ author_profile: true
 
     <!-- Professional Affiliation Card 2 -->
     <div class="certification-card">
-        
             <img src="https://www.ekoatlantic.com/wp-content/uploads/2013/10/Guardian_Nigeria_logo.png" alt="Guardian Logo">
             <div>
                 <h5>December 2023</h5>
@@ -251,11 +249,10 @@ author_profile: true
 
     <!-- Professional Affiliation Card 3 -->
 	<div class="certification-card">
-	    
-	        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/37acbe25257627.563434567b60d.jpg" alt="ThisDay Logo">
+	        <img src="https://thisday.com.ng/wp-content/uploads/2025/11/this-day-live-logo.png" alt="ThisDay Logo">
 	        <div>
 	            <h5>December 2022</h5>
-	            <p><big><a href="https://thisday.com.ng/wp-content/uploads/2025/11/this-day-live-logo.png">Expert Outlines Next-Gen Data Lineage and Governance Frameworks in Modern Cloud Environments</a></big></p>
+	            <p><big><a href="https://www.thisdaylive.com/2022/12/01/expert-outlines-next-gen-data-lineage-and-governance-frameworks-in-modern-cloud-environments/">Expert Outlines Next-Gen Data Lineage and Governance Frameworks in Modern Cloud Environments</a></big></p>
 	        </div>   
 	</div>
 
