@@ -148,7 +148,7 @@ author_profile: true
         </div>
       
         <div class="section-content">
-          <p>2.	Adelusi, B.S., Osamika, D., Chinyeaka Kelvin-Agwu, M., Mustapha, A.Y. and Ikhalea, N. (2023).  [online] 7(4), pp.647–659. <big><a href="https://www.irejournals.com/paper-details/1705169>Integrating Wearable Sensor Data with Machine Learning for Early Detection of Non-Communicable Diseases</a></big></p> Iconic Research and Engineering Journals,
+          <p>2.	Adelusi, B.S., Osamika, D., Chinyeaka Kelvin-Agwu, M., Mustapha, A.Y. and Ikhalea, N. (2023).  [online] 7(4), pp.647–659. <big><a href="https://www.irejournals.com/paper-details/1705169">Integrating Wearable Sensor Data with Machine Learning for Early Detection of Non-Communicable Diseases</a></big>Iconic Research and Engineering Journals</p>
           <p>3.	Damilola Osamika, Bamidele Samuel Adelusi, MariaTheresa Chinyeaka Kelvin-Agwu, Mustapha, A.Y. and Nura Ikhalea (2021). Machine Learning Models for Early Detection of Cardiovascular Diseases: A Systematic Review. Iconic Research and Engineering Journals, [online] 4(12), pp.355–368. Available at: https://www.irejournals.com/paper-details/1702780.</p>
         </div>
       </div>
