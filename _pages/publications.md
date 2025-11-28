@@ -141,15 +141,14 @@ author_profile: true
     <div class="experience-container">
 
       <div class="experience-card">
-      
-        <div class>
-          <p>1.	Adelusi, B.S., Osamika, D., Kelvin-Agwu, M.C., Mustapha, A.Y. and Ikhalea, N. (2022).<big><a href="https://doi.org/10.54660/.ijfmr.2022.3.1.47-56">A Deep Learning Approach to Predicting Diabetes Mellitus Using Electronic Health Records</a></big>Journal of Frontiers in Multidisciplinary Research</p>
-        </div>
-
-  
+    
         <div class="section-header">Abstract</div>
+        <div class"section-content">
+          <p>1.	<strong>Adelusi, B.S.</strong>, Osamika, D., Kelvin-Agwu, M.C., Mustapha, A.Y. and Ikhalea, N. (2022).<big><a href="https://www.multidisciplinaryfrontiers.com/uploads/archives/20250409122749_FMR-2025-1-047.1.pdf">A Deep Learning Approach to Predicting Diabetes Mellitus Using Electronic Health Records</a></big> Journal of Frontiers in Multidisciplinary Research</p>
+        </div>
+      
         <div class="section-content">
-          <p>2.	Adelusi, B.S., Osamika, D., Chinyeaka Kelvin-Agwu, M., Mustapha, A.Y. and Ikhalea, N. (2023). Integrating Wearable Sensor Data with Machine Learning for Early Detection of Non-Communicable Diseases. Iconic Research and Engineering Journals, [online] 7(4), pp.647–659. Available at: https://www.irejournals.com/paper-details/1705169.</p>
+          <p>2.	Adelusi, B.S., Osamika, D., Chinyeaka Kelvin-Agwu, M., Mustapha, A.Y. and Ikhalea, N. (2023).  [online] 7(4), pp.647–659. <big><a href="https://www.irejournals.com/paper-details/1705169>Integrating Wearable Sensor Data with Machine Learning for Early Detection of Non-Communicable Diseases</a></big></p> Iconic Research and Engineering Journals,
           <p>3.	Damilola Osamika, Bamidele Samuel Adelusi, MariaTheresa Chinyeaka Kelvin-Agwu, Mustapha, A.Y. and Nura Ikhalea (2021). Machine Learning Models for Early Detection of Cardiovascular Diseases: A Systematic Review. Iconic Research and Engineering Journals, [online] 4(12), pp.355–368. Available at: https://www.irejournals.com/paper-details/1702780.</p>
         </div>
       </div>
