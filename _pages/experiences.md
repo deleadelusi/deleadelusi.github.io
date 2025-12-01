@@ -234,34 +234,34 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <h2>Building a Strong Foundation with 14+ Years of Professional Expertise</h2>
+    <h2>Highly skilled Software Engineer and Cloud Solutions Architect with over fifteen (15) years of expertise in architecting, automating, and optimizing complex infrastructures across On-premise and Cloud - AWS, Azure, GCP and strong background in Software development and Database Administration.</h2>
     <div class="separator"></div>
 
     <!-- Experience cards -->
     <div class="experience-container">
 
         
-        <!-- Role 1: Summer Intern -->
+        <!-- Role 1: Hands-On experience -->
         <div class="experience-card">
-            <h3>Summer Secuirty Audit Intern</h3>
-            <h4><a href="https://www.fhlb.com/" target="_blank">Federal Home Loan Bank (FHLB), Dallas</a> · May 2025 – July 2025</h4>
+            <h3>DevOps Engineer/Cloud Solutions Architect</h3>
+            <h4><a href="https://" target="_blank">Swoom, Dallas</a> · April 2025 – Date</h4>
             <h5>Texas, USA</h5>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaygaMtjUjjLnya89RUR87glN4krJcAadeIsrsJgPTeiIn9o1hgYvbJMSBw13wZOSv5Lg&usqp=CAU" alt="FHLB Logo">
+            <img src="https://encrypted-tbSBw13wZOSv5Lg&usqp=CAU" alt="FHLB Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Supported IT and compliance audits using FHLB Dallas’s methodology, ensuring alignment with SOX, BCP/DR, FHFA regulations, and GAAP. </li>
-                <li>Conducted internal control testing for IT systems to assess risk mitigation and regulatory compliance.</li>
-                <li>Prepared audit workpapers documenting procedures, testing, and control effectiveness per departmental standards.</li>
-                <li>Collaborated with audit management to draft recommendations and reports for auditee presentation.</li>
-                <li>Engaged with IT and business stakeholders to gather evidence and enhance risk assessment quality.</li>
+                <li>Collaborate with team/clients to understand business needs, providing tailored Azure based solutions that ensured scalability, security, and performance. </li>
+                <li>Automate various infrastructure activities like Continuous Deployment, Application Server Setup, Stack Monitoring.</li>
+                <li>Managed Docker orchestration and Docker containerization using Kubernetes.</li>
+                <li>Use Kubernetes to orchestrate the deployment, scaling and management of Docker containers.</li>
+                <li>Carriy out automated deployment and builds on various environments using continuous integration (CI) tools Jenkins.</li>
 
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Developed a SharePoint audit portal to streamline documentation and lifecycle management, boosting team efficiency.</li>
-                <li>Proposed AI-driven use cases to leadership, advancing automation in audit processes and digital transformation.</li>
-                <li>Gained hands-on experience in enterprise risk management, SOX compliance, and regulatory audits through collaboration with senior auditors.</li>
-                <li>Informed audit strategies via leadership discussions on financial markets, governance, and risk oversight.</li>
+                <li>Work extensively with Azure cloud services, leveraging Azure Functions, Logic Apps, and Azure Kubernetes Service (AKS) for scalable solutions.</li>
+                <li>Automate CI/CD pipelines using GitHub Actions & ArgoCD, enabling rapid application deployments with zero downtime.</li>
+                <li>Collaborate with development teams to achieve continuous integration and continuous delivery.</li>
+                <li>Implemented monitoring and observability solutions using AWS CloudWatch and third party tools to ensure the health and performance of live systems.</li>
 
             </ul>
         </div>
@@ -270,28 +270,29 @@ author_profile: true
         
         
         
-        <!-- Role 1: Graduate Student Researcher -->
+        <!-- Role 1: Chief Technology Officer -->
         <div class="experience-card">
-            <h3>Graduate Student Researcher</h3>
-            <h4><a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/" target="_blank">The University of Texas at Arlington (UTA)</a> · Aug 2023 – Present</h4>
+            <h3>Chief Technology Officer</h3>
+            <h4><a href="https://paltonmorgan.com/" target="_blank">Palton Morgan Holdings</a> · May 2021 - July 2022</h4>
             <h5>Texas, USA</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/UTA_logomark.png" alt="UTA Logo">
+            <img src="https://paltonmorgan.com/naresus/2021/02/logo-15.png" alt="PMH Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Conducted advanced research in AI supply chain risk analysis, uncovering prompt injection flaws and PII leakage across LLM ecosystems.</li>
-                <li>Developed scalable graph-based techniques to trace model dependencies, enabling automated detection of vulnerabilities.</li>
-                <li>Engineered secure evaluation pipelines incorporating adversarial testing, privacy preservation, and data provenance tracking.</li>
-                <li>Applied graph learning and AI security frameworks to assess model integrity, traceability, and compliance with AI standards.</li> 
+                <li>Provide leadership in technology for business enablement & innovation.</li>
+                <li>Identify and manage vendors in the delivery of contracted work and ensure IT projects are complete on time, on scope, and on budget.</li>
+                <li>Experience in migrating applications to both AWS and Azure cloud platforms.</li>
+                <li>Define the enterprise architecture in conjunction with current and future requirements.</li> 
+
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Built and analyzed a 400K+ node LLM supply chain graph, enabling large-scale, explainable, and auditable risk analysis of model inheritance and dataset provenance.</li>
-                <li>Identified critical prompt injection vectors and data leakage risks, contributing to the development of defensive strategies for trustworthy LLM deployment.</li>
-                <li>Advanced privacy-preserving solutions by integrating graph AI with security-aware evaluation protocols in AI systems.</li>
+                <li>Implements user access controls and data security measures as appropriate</li>
+                <li>Identify and manage vendors in the delivery of contracted work.</li>
+                <li>Developed IT Standards, IS Security Policies for internal IT operations to drive attainment of SLAs..</li>
             </ul>
         </div>
 
-        <!-- Role 2: Chief Information Security Officer (CISO) -->
+        <!-- Role 2: Chief Information Security Officer (CISO) 
         <div class="experience-card">
             <h3>Chief Information Security Officer (CISO)</h3>
             <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
@@ -299,7 +300,7 @@ author_profile: true
             <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-               <li>Directed enterprise-wide cybersecurity strategy, aligning initiatives with business goals and regulatory standards.</li>
+               <li>Build a competitive and agile team, provide technical mentorship and enforce coding standards.</li>
                <li>Led a 30-member Security Operations Center (SOC), ensuring 24/7 threat detection, rapid breach containment, and operational resilience.</li>
                <li>Architected advanced security frameworks to protect data, counter emerging threats, and ensure compliance.</li>
                <li>Authored and enforced policies for risk governance, vendor security, SLA oversight, and GABV-aligned audits.</li>
@@ -312,107 +313,10 @@ author_profile: true
                 <li>Drove security-focused digital transformation, saving $1.5M annually, improving efficiency by 25%, and reducing manual processes by 40%.</li>
                 <li>Strengthened BRAC Bank’s alignment with the Global Alliance for Banking on Values (GABV), reinforcing its leadership in secure, sustainable finance.</li>
             </ul>
-        </div>
+        </div> -->
 
-        <!-- Role 3: National IT Security Consultant -->
-        <div class="experience-card">
-            <h3>National IT Security Consultant</h3>
-            <h4><a href="https://bcc.gov.bd/" target="_blank">Bangladesh Computer Council</a> Funded Projects by <a href="https://www.worldbank.org/" target="_blank">World Bank Group</a> · Jan 2019 – Sep 2022</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bangladesh_Computer_Council_Logo.svg" alt="Bangladesh Computer Council Logo">
-            <div class="section-header">Responsibilities</div>
-            <ul class="section-content">
-                <li>Served as a key strategist in strengthening Bangladesh's cybersecurity landscape through comprehensive initiatives addressing technical and strategic challenges.</li>
-                <li>Demonstrated expertise in cyber threats, risk management, infrastructure development, and policy formulation, which is critical in advancing the nation's cybersecurity posture.</li>
-                <li>Contributed to building a resilient cybersecurity defense ecosystem for the Government of Bangladesh, enhancing technical capabilities and fostering security awareness across various sectors.</li>
-                <li>Acted as a pivotal force in shaping national cybersecurity policies and awareness efforts, collaborating with government agencies, financial institutions, law enforcement agencies (LEAs), critical infrastructures, academia, and civil societies.</li>
-                <li>Supervised audit teams by creating detailed plans, guiding them through the process, and preparing blueprints for prevention, detection, correction, and deterrent controls for the 
-Government.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Significantly imparted in developing Bangladesh's National Cybersecurity Strategy, IT Audit Framework, and Cloud Computing Framework policy, reinforcing the nation's digital security posture.</li>
-                <li>Oversaw auditing efforts for the <a href="https://ndc.bcc.gov.bd/" target="_blank">National Data Center (NDC)</a>, <a href="https://www.cirt.gov.bd/" target="_blank">BGD e-GOV CIRT</a>, <a href="https://bdccl.gov.bd/" target="_blank">Tier IV National Data Center</a>, and Critical Information Infrastructures (CIIs) by ensuring compliance with stringent security standards.</li>
-            </ul> 
-        </div>
 
-        <!-- Role 4: Assistant Vice President -->
-        <div class="experience-card">
-            <h3>Assistant Vice President</h3>
-            <h4><a href="https://www.ebl.com.bd/" target="_blank">Eastern Bank PLC</a> · Nov 2016 – Dec 2018</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://play-lh.googleusercontent.com/cEk_c4aNXPvN5SdT8IdDdSfHgFrtxhBx__0PGWafT6Y81Jv4I6nwBElLgdzkIQS7d868" alt="Eastern Bank PLC Logo">
-            <div class="section-header">Responsibilities</div>
-            <ul class="section-content">
-                <li>Headed the IT Security team, setting strategic direction and overseeing the development and implementation of the bank’s comprehensive information security strategy and architecture.</li>
-                <li>Formulated and enforced stringent security policies and standards, ensuring strict compliance with regulations and cybersecurity laws.</li>
-                <li>Steered bank-wide threat detection and response initiatives, conducting thorough risk assessments and driving proactive vulnerability management across critical systems.</li>
-                <li>Pioneered integrating innovative security technologies, strengthening the bank's infrastructure against evolving threats, and successfully leading high-impact IT security projects to completion.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Secured PCI-DSS compliance, the gold standard for protecting sensitive client data, mitigating breaches, and safeguarding customers from financial and identity theft risks.</li>
-                <li>Instrumental in Eastern Bank PLC’s trailblazing PCI-DSS implementation, solidifying its position as a frontrunner in data security within Bangladesh’s banking sector.</li>
-                <li>Activated 24/7 cyber defenses using SIEM and SOAR systems, fending off major threats like ransomware and DDoS attacks and protecting assets.</li>
-            </ul>
-        </div>
 
-        <!-- Role 5: Assistant Manager (Cybersecurity) -->
-        <div class="experience-card">
-            <h3>Assistant Manager (Cybersecurity)</h3>
-            <h4><a href="https://kpmg.com/bd/en/home.html" target="_blank">KPMG Bangladesh "Big Four"</a> · Feb 2015 – Nov 2016</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://1000logos.net/wp-content/uploads/2023/03/KPMG-logo.png" alt="KPMG Bangladesh Logo">
-            <div class="section-header">Responsibilities</div>
-            <ul class="section-content">
-                <li>Analyzed security incidents and conducted vulnerability assessments.</li>
-                <li>Orchestrated project execution, preparing RFPs and technical proposals for security audits and developing IT policies aligned with international standards (ISO 27001, ITIL, COBIT) and regulatory guidelines.</li>
-                <li>Coordinated as a critical liaison between IT and business units, managing SLAs, resolving security-related breaches, and driving service improvements.</li>
-                <li>Conducted risk management assessments, utilizing CRAMM methodologies to pinpoint and mitigate IT risks while streamlining business processes through gap analysis and workflow redesign using MS Visio.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Strengthened the resilience of Payment and Settlement Systems of the Central Bank (Bangladesh Bank) by conducting thorough IT security audits, ensuring the stability and security of critical financial operations.</li>
-                <li>Fortified the IT infrastructure and bolstered the credibility of Dhaka Bank PLC, NCC Bank PLC, Prime Bank PLC, BRAC Bank PLC, and Al-Arafah Islami Bank PLC, holding 15% of the market share through comprehensive security audits.</li>
-            </ul>
-        </div>
-
-        <!-- Role 6: Senior Programmer (ERP Security) -->
-        <div class="experience-card">
-            <h3>Senior Programmer (ERP Security)</h3>
-            <h4><a href="https://www.ibcs-primax.com/" target="_blank">IBCS-PRIMAX Software(Bangladesh) Limited</a> · Jan 2014 – Feb 2015</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://iconape.com/wp-content/files/sl/341486/svg/341486.svg" alt="IBCS-PRIMAX Logo">
-            <div class="section-header">Responsibilities</div>
-            <ul class="section-content">
-                <li>Ensured robust database security through proactive maintenance, backups, and monitoring while securely integrating ERP systems to minimize risks.</li>
-                <li>Identified and mitigated security vulnerabilities via regular scans, testing, and role-based access control (RBAC) implementation.</li>
-                <li>Secured sensitive data through encryption, masking, and compliance with data privacy regulations (GDPR, CCPA), with frequent backups and recovery tests.</li>
-                <li>Managed secure ERP configurations and applied timely patches to address vulnerabilities and maintain system integrity.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Securely implemented ERP solutions such as Oracle E-Business Suite and JD Edwards in multiple organizations, enabling seamless, efficient service delivery to a large customer base, enhancing operational smoothness and reliability.</li>
-            </ul>
-        </div>
-
-        <!-- Role 7: IT Specialist (Security) -->
-        <div class="experience-card">
-            <h3>IT Specialist (Security)</h3>
-            <h4><a href="https://www.ibm.com/us-en/" target="_blank">IBM Bangladesh</a> · Oct 2012 – Dec 2013</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939113t2tuw.png" alt="IBM Bangladesh Logo">
-            <div class="section-header">Responsibilities</div>
-            <ul class="section-content">
-                <li>Facilitated security analysis, collaborating with stakeholders to align advanced solutions with business goals.</li>
-                <li>Organized security integration across projects, ensuring compliance with standards and monitoring SLAs.</li>
-                <li>Enhanced database security through proactive monitoring, secure backups, and strategic capacity planning while maintaining detailed documentation for optimization.</li>
-            </ul>
-            <div class="section-header">Contributions</div>
-            <ul class="section-content">
-                <li>Actively ensured seamless operations for Airtel Bangladesh, the second-largest mobile operator, by delivering critical IT and security services through IBM, supporting their customer experience with precision and reliability.</li>
-            </ul>
-        </div>
 
     </div>
 </div>
