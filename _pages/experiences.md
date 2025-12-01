@@ -234,7 +234,7 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <h5>Highly skilled Software Engineer and Cloud Solutions Architect with over fifteen (15) years of expertise in architecting, automating, and optimizing complex infrastructures across On-premise and Public Cloud with my strong background in Software development and Database Administration.</h5>
+    <h4>Highly skilled Software Engineer and Cloud Solutions Architect with over fifteen (15) years of expertise in architecting, automating, and optimizing complex infrastructures across On-premise and Public Cloud with my strong background in Software development and Database Administration.</h4>
     <div class="separator"></div>
 
     <!-- Experience cards -->
