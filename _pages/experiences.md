@@ -234,7 +234,7 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <h2>Highly skilled Software Engineer and Cloud Solutions Architect with over fifteen (15) years of expertise in architecting, automating, and optimizing complex infrastructures across On-premise and Cloud - AWS, Azure, GCP and strong background in Software development and Database Administration.</h2>
+    <h5>Highly skilled Software Engineer and Cloud Solutions Architect with over fifteen (15) years of expertise in architecting, automating, and optimizing complex infrastructures across On-premise and Public Cloud with my strong background in Software development and Database Administration.</h5>
     <div class="separator"></div>
 
     <!-- Experience cards -->
@@ -274,7 +274,7 @@ author_profile: true
         <div class="experience-card">
             <h3>Chief Technology Officer</h3>
             <h4><a href="https://paltonmorgan.com/" target="_blank">Palton Morgan Holdings</a> · May 2021 - July 2022</h4>
-            <h5>Texas, USA</h5>
+            <h5>Lagos, Nigeria</h5>
             <img src="https://paltonmorgan.com/naresus/2021/02/logo-15.png" alt="PMH Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
