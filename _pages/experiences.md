@@ -234,7 +234,7 @@ author_profile: true
 
 <!-- Professional Experiences Section -->
 <div class="content">
-    <h4>Highly skilled Software Engineer and Cloud Solutions Architect with over fifteen (15) years of expertise in architecting, automating, and optimizing complex infrastructures across On-premise and Public Cloud with my strong background in Software development and Database Administration.</h4>
+    <h4>Highly skilled Software Engineer and Cloud Solutions Architect with over fifteen (15) years of expertise in architecting, automating, and optimizing complex infrastructures across On-premise and Public Cloud with my strong background in software development.</h4>
     <div class="separator"></div>
 
     <!-- Experience cards -->
@@ -246,7 +246,7 @@ author_profile: true
             <h3>DevOps Engineer/Cloud Solutions Architect</h3>
             <h4><a href="https://" target="_blank">Swoom, Dallas</a> · April 2025 – Date</h4>
             <h5>Texas, USA</h5>
-            <img src="https://encrypted-tbSBw13wZOSv5Lg&usqp=CAU" alt="FHLB Logo">
+            <img src="https://encrypted-tbSBw13wZOSv5Lg&usqp=CAU" alt="Sw Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
                 <li>Collaborate with team/clients to understand business needs, providing tailored Azure based solutions that ensured scalability, security, and performance. </li>
@@ -292,26 +292,26 @@ author_profile: true
             </ul>
         </div>
 
-        <!-- Role 2: Chief Information Security Officer (CISO) 
+        <!-- Role 2: Senior IT Consultant/Cloud Solutions Architect 
         <div class="experience-card">
-            <h3>Chief Information Security Officer (CISO)</h3>
-            <h4><a href="https://www.bracbank.com/en" target="_blank">BRAC Bank PLC</a> · Nov 2022 – Aug 2023</h4> 
-            <h5>Dhaka, Bangladesh</h5>
-            <img src="https://play-lh.googleusercontent.com/alpY0C3iFPpBBULGdBBnR0i3mdMEk3M8GR35o7sWcg_OzVakagI11yxqokIGOYrbmcA" alt="BRAC Bank Logo">
+            <h3>Senior IT Consultant/Cloud Solutions Architect</h3>
+            <h4><a href="https://www.futureplusng.com" target="_blank">Futureplus Technologies</a> · February 2016 – April 2021</h4> 
+            <h5>Lagos, Nigeria</h5>
+            <img src="https://playgI11yxqokIGOYrbmcA" alt="Futureplus Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
+
+               <li>Engage in Design and Architecture of Cloud Services (AWS & Azure)</li>
+               <li>Good knowledge of Cloud Software implementation using JavaScript, HTML, CSS, ASP.NET, XML, Restful APIs</li>
                <li>Build a competitive and agile team, provide technical mentorship and enforce coding standards.</li>
-               <li>Led a 30-member Security Operations Center (SOC), ensuring 24/7 threat detection, rapid breach containment, and operational resilience.</li>
-               <li>Architected advanced security frameworks to protect data, counter emerging threats, and ensure compliance.</li>
-               <li>Authored and enforced policies for risk governance, vendor security, SLA oversight, and GABV-aligned audits.</li>
-               <li>Delivered board-level risk reports and fostered stakeholder collaboration to drive organization-wide cybersecurity awareness.</li>
+               <li>Implement CRM/NAV Business Central Application.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Deployed advanced ransomware defenses, XDR, EDR, and SIEM/SOAR solutions, mitigating 99.9% of threats and ensuring business continuity.</li>
-                <li>Fortified cybersecurity across 187 branches, 33 sub-branches, and 1,041 agent-banking outlets, ensuring uninterrupted banking services.</li>
-                <li>Drove security-focused digital transformation, saving $1.5M annually, improving efficiency by 25%, and reducing manual processes by 40%.</li>
-                <li>Strengthened BRAC Bank’s alignment with the Global Alliance for Banking on Values (GABV), reinforcing its leadership in secure, sustainable finance.</li>
+                <li>Engage in web and native app development as well as managing Applications in Cloud infrastructure for Azure and AWS.</li>
+                <li>Experience of automation with Enterprise GitHub, Jenkins, Maven, Nexus, Chef, Ansible, and Sonar Nexus.</li>
+                <li>Experience in migrating applications to both AWS and Azure cloud platforms.</li>
+                <li>Develop and Support built Software Applications such as Accounts Management System, Short Message Services (SMS) Enquiry System, School & Hospital Management, Membership/Report Management Portal etc.</li>
             </ul>
         </div> -->
 

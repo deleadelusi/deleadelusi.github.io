@@ -328,18 +328,18 @@ redirect_from:
             <div>
                 <li>Intelligent Systems/Artificial Intelligence & Machine Learning</li>
                 <li>Neural Networks and Deep Learning</li>
-                <li>Big Data and Data Science</li>
-        		<li>Microservices, Docker & Kubernetes Orchestration</li>
+                <li>High Performance Computing, Cloud Computing</li>
+                <li>Big Data and Data Science, Data Mining</li>
             </div>
         </div>
 
         <!-- Interests Card 2 -->
         <div class="certification-card">
             <div>
-                <li>Cloud Computing & Infrastructure as Code</li>
                 <li>Digital Transformation & Cloud-Native Modernization</li>
-                <li>Software Engineering & Databases</li>
-                <li>Data Mining, Bioinformatics and Health Informatics</li>
+                <li>Natural Language Processing, Large Language Models and Generative AI</li>
+                <li>Analytics; Deep Web and Social Media Mining</li>
+                <li>Big Data and Data Science > Bioinformatics and Health Informatics</li>
             </div>
         </div>
     </div>
