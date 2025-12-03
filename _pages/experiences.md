@@ -292,7 +292,7 @@ author_profile: true
             </ul>
         </div>
 
-        <!-- Role 2: Senior IT Consultant/Cloud Solutions Architect 
+        <!-- Role 2: Senior IT Consultant/Cloud Solutions Architect  -->
         <div class="experience-card">
             <h3>Senior IT Consultant/Cloud Solutions Architect</h3>
             <h4><a href="https://www.futureplusng.com" target="_blank">Futureplus Technologies</a> · February 2016 – April 2021</h4> 
@@ -313,7 +313,7 @@ author_profile: true
                 <li>Experience in migrating applications to both AWS and Azure cloud platforms.</li>
                 <li>Develop and Support built Software Applications such as Accounts Management System, Short Message Services (SMS) Enquiry System, School & Hospital Management, Membership/Report Management Portal etc.</li>
             </ul>
-        </div> -->
+        </div>
 
 
 
