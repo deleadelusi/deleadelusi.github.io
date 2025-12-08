@@ -244,7 +244,7 @@ author_profile: true
         <!-- Role 1: Hands-On experience -->
         <div class="experience-card">
             <h3>DevOps Engineer/Cloud Solutions Architect</h3>
-            <h4><a href="https://" target="_blank">Swoom, Dallas</a> · April 2025 – Date</h4>
+            <h4><a href="https://" target="_blank">Swoom, Dallas</a> · July 2024 – Date</h4>
             <h5>Texas, USA</h5>
             <img src="https://encrypted-tbSBw13wZOSv5Lg&usqp=CAU" alt="Sw Logo">
             <div class="section-header">Responsibilities</div>
@@ -266,11 +266,33 @@ author_profile: true
             </ul>
         </div>
         
+
+             <!-- Role 2: Software/DevOps Engineer -->
+        <div class="experience-card">
+            <h3>Software/DevOps Engineer</h3>
+            <h4><a href="" target="_blank">SigmaXplus Solutions LLC</a> · Sep 2022 - June 2023</h4>
+            <h5>Dallas, TX</h5>
+            <img src="" alt="">
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-con3ent">
+                <li>Create Application Programming Interfaces (APIs) that are clean, well-documented, and easy to use.</li>
+                <li>Strong hands on experience in scripting languages such as JSON, YAML, Ruby, Python, Shell Scripting.</li>
+                <li>Strong experience in providing continuous support for DevOps activities, focusing on configuration management and build automation.</li>
+                <li>Develop enterprise-level applications built on the Microsoft .NET Framework, C#, Angular, Java, Node.js.</li> 
+
+            </ul>
+            <div class="section-header">Contributions</div>
+            <ul class="section-content">
+                <li>Collaborated with developers and DevOps teams using Microsoft Team, Slack, Jira and confluence to ensure clear communication and workflow alignment</li>
+                <li>Extensive experience in setting up CI/CD pipelines using tools such as Jenkins, Maven, Docker, Nexus, Chef, Ansible, Artifactory, and Azure pipelines.</li>
+                <li>Define the enterprise architecture in conjunction with current and future requirements.</li>
+            </ul>
+        </div>
+ 
         
         
         
-        
-        <!-- Role 1: Chief Technology Officer -->
+        <!-- Role 3: Chief Technology Officer -->
         <div class="experience-card">
             <h3>Chief Technology Officer</h3>
             <h4><a href="https://paltonmorgan.com/" target="_blank">Palton Morgan Holdings</a> · May 2021 - July 2022</h4>
@@ -292,7 +314,7 @@ author_profile: true
             </ul>
         </div>
 
-        <!-- Role 2: Senior IT Consultant/Cloud Solutions Architect  -->
+        <!-- Role 4: Senior IT Consultant/Cloud Solutions Architect  -->
         <div class="experience-card">
             <h3>Senior IT Consultant/Cloud Solutions Architect</h3>
             <h4><a href="https://www.futureplusng.com" target="_blank">Futureplus Technologies</a> · February 2016 – April 2021</h4> 

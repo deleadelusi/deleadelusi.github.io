@@ -281,7 +281,7 @@ author_profile: true
             <img src="https://www.ncs.org.ng/wp-content/uploads/2024/07/CPN.jpg" alt="CPN Logo">
             <div>
                 <h5>Professional Member</h5>
-                <p><big><a href="https://cpn.gov.ng/metro/?ref=metro/content&list=cd/4">Institute of Electrical and Electronics Engineers (IEEE)</a></big></p>
+                <p><big><a href="https://cpn.gov.ng/metro/?ref=metro/content&list=cd/4">Computer Professionals Registration Council of Nigeria (CPN)</a></big></p>
             </div>
         </div>
     </div>
