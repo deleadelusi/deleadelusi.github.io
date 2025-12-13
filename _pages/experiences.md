@@ -300,45 +300,122 @@ author_profile: true
             <img src="https://paltonmorgan.com/naresus/2021/02/logo-15.png" alt="PMH Logo">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-                <li>Provide leadership in technology for business enablement & innovation.</li>
+                <li>Implemented dynamic Web applications using ASP.NET and AJAX technologies, JavaScript and CSS styling; deployment and management of Web applications using IIS Web server.</li>
+                <li>Provided leadership in technology for business enablement & innovation.</li>
                 <li>Identify and manage vendors in the delivery of contracted work and ensure IT projects are complete on time, on scope, and on budget.</li>
-                <li>Experience in migrating applications to both AWS and Azure cloud platforms.</li>
-                <li>Define the enterprise architecture in conjunction with current and future requirements.</li> 
+                <li>Migrated applications to both AWS and Azure cloud platforms.</li>
+                <li>Defined the enterprise architecture in conjunction with current and future requirements.</li> 
 
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Implements user access controls and data security measures as appropriate</li>
+                <li>Implemented user access controls and data security measures as appropriate</li>
                 <li>Identify and manage vendors in the delivery of contracted work.</li>
                 <li>Developed IT Standards, IS Security Policies for internal IT operations to drive attainment of SLAs..</li>
             </ul>
         </div>
 
-        <!-- Role 4: Senior IT Consultant/Cloud Solutions Architect  -->
+<!-- Role 4: Senior IT Consultant/Cloud Solutions Architect  -->
         <div class="experience-card">
             <h3>Senior IT Consultant/Cloud Solutions Architect</h3>
             <h4><a href="https://www.futureplusng.com" target="_blank">Futureplus Technologies</a> · February 2016 – April 2021</h4> 
             <h5>Lagos, Nigeria</h5>
-            <img src="https://playgI11yxqokIGOYrbmcA" alt="Futureplus Logo">
+            <img src="https://playgI11yxqokIGOYrbmcA" alt="">
             <div class="section-header">Responsibilities</div>
             <ul class="section-content">
-
-               <li>Engage in Design and Architecture of Cloud Services (AWS & Azure)</li>
+                <li>Developed enterprise-level applications built on the Microsoft .NET Framework for Windows, Web and Mobile platforms; integrating SMS (short message service) functionality into Windows and Web applications using SMS servers and mobile terminals.</li>
+               <li>Engaged in Design and Architecture of Cloud Services (AWS & Azure)</li>
                <li>Good knowledge of Cloud Software implementation using JavaScript, HTML, CSS, ASP.NET, XML, Restful APIs</li>
-               <li>Build a competitive and agile team, provide technical mentorship and enforce coding standards.</li>
-               <li>Implement CRM/NAV Business Central Application.</li>
+               <li>Programming in Visual Basic.NET, C#, Python, R, php and any other Object-Oriented.</li>
+                <li>Build a competitive and agile team, provide technical mentorship and enforce coding standards.</li> 
+               <li>Implemented CRM/NAV Business Central Application.</li>
             </ul>
             <div class="section-header">Contributions</div>
             <ul class="section-content">
-                <li>Engage in web and native app development as well as managing Applications in Cloud infrastructure for Azure and AWS.</li>
+                <li>Developed and Supported built Software Applications such as Accounting Management System, Short Message Services (SMS) Enquiry System, School & Hospital Management, Membership/Report Management Portal etc.</li>
+                <li>Design web and native app development as well as managing Applications in Cloud infrastructure for Azure and AWS.</li>
                 <li>Experience of automation with Enterprise GitHub, Jenkins, Maven, Nexus, Chef, Ansible, and Sonar Nexus.</li>
-                <li>Experience in migrating applications to both AWS and Azure cloud platforms.</li>
-                <li>Develop and Support built Software Applications such as Accounts Management System, Short Message Services (SMS) Enquiry System, School & Hospital Management, Membership/Report Management Portal etc.</li>
+                <li>Migrated applications to both AWS and Azure cloud platforms.</li>
+                <li>Reports Design and Management using Crystal Report and other reporting tools.</li>
+
             </ul>
         </div>
 
+<!-- Role 5: Head, Information Technology/System Analyst  -->
+        <div class="experience-card">
+            <h3>Head, Information Technology/System Analyst</h3>
+            <h4><a href="https://davisther.net/" target="_blank">Davisther Brokers Limited,</a> · June 2016 – April 2019</h4> 
+            <h5>Lagos, Nigeria</h5>
+            <img src="" alt="">
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+              <li>Oversee and ensure daily transactions were backup and managed the backup Offsite and advised Management on BCP and DRP.</li>
+              <li>Worked and support of software and web technologies such as .net, WordPress, PHP etc.</li>
+              <li>Managed System, Network and Security Administration i.e. install, configure, harden and maintain servers & other network issues etc</li>
+              <li>Maintains company in-house application for daily transactions.</li>
+              <li>Develops IT Standards, IS Security Policies and Procedures</li>
+              
+            </ul>
+            <div class="section-header">Contributions</div>
+            <ul class="section-content">
+                <li>Implemented dynamic Web applications using ASP.NET and AJAX technologies, JavaScript and CSS styling; deployment and management of Web applications using IIS Web server.</li>
+                <li>System administration, hardware maintenance and Network management.</li>
+                <li>Responsible for all IT segments including the procurement, disposal management, monitoring, project cycle and integration of all systems.</li>
+                <li>Train staff on Customized Applications, OS, general knowledge of IT, Off- the Shelf Packages and the likes on the capacity building in ICT</li>
+                <li>Oversee and ensure daily transactions are backup and processed.</li> 
+            </ul>
+        </div>
 
+<!-- Role 6: Head, Information Technology/Programmer  -->
+        <div class="experience-card">
+            <h3>Head, Information Technology/Programmer</h3>
+            <h4><a href="https://www.excelng.com" target="_blank">Excel Life Empowerment Organization</a> · May 2009 – February 2016</h4> 
+            <h5>Lagos, Nigeria</h5>
+            <img src="" alt="">
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
 
+               <li>Developed and managed Accounting System for Micro Financing</li>
+                <li>Train staff on Customized Applications, OS, general knowledge of IT, Off- the Shelf Packages and the likes on the capacity building in ICT</li>
+               <li>Developed IT Standards, IS Security Policies and Procedures</li>
+               <li>Working and deep understanding of software and web technologies such as .net, WordPress, PHP etc.</li>
+               <li>Developed enterprise-level applications built on the Microsoft .NET Framework for Windows, Web and Mobile platforms; integrating SMS (short message service) functionality into Windows and Web applications using SMS servers and mobile terminals.</li>
+            </ul>
+            <div class="section-header">Contributions</div>
+            <ul class="section-content">
+                <li>Responsible for all IT segments including the procurement, disposal management, monitoring, project cycle and integration of all systems.</li>
+                <li>Train staff on Customized Applications, OS, general knowledge of IT, Off- the Shelf Packages and the likes on the capacity building in ICT</li>
+                <li>Oversee and ensure daily transactions are backup and processed.</li>
+                
+            </ul>
+        </div>
+
+<!-- Role 7: Group Head, Information Technology  -->
+        <div class="experience-card">
+            <h3>Group Head, Information Technology</h3>
+            <h4><a href="https://www.profundng.com" target="_blank">Profund Securities Limited</a> · July 2005 – April 2009</h4> 
+            <h5>Lagos, Nigeria</h5>
+            <img src="https://" alt="">
+            <div class="section-header">Responsibilities</div>
+            <ul class="section-content">
+
+               <li>Managed System, Network and Security Administration i.e. install, configure, harden and maintain servers & other network issues etc</li>
+               <liMaintenance of Intranet/links within the company & branches Network</li>
+               <li>Programming in Visual Basic.NET, C#, php and any other Object-Oriented</li> 
+               <li>Maintain/support the Branches (Business Develpment Areas), IS Assets and other related issues.</li>
+               <li>Managed backup Offsites & advise Management on BCP & DRP</li>
+            </ul>
+            <div class="section-header">Contributions</div>
+            <ul class="section-content">
+                
+                <li>Achieved the establishment and management of IT Dept.</li>
+                <li>Interconnectivity of the Organization branches.</li>
+                <li>Support Development of In-House Customized Applications such as Transactions Alert, Payroll, HR/Personnel, CDFSoft, StockAnalyser etc</li>
+                <li>Liaised with the Consultants/Vendors on the necessary & important issues relating to ICT.</li>
+                <li>Created Users' IT friendly environment.</li>
+
+            </ul>
+        </div>
 
     </div>
 </div>
