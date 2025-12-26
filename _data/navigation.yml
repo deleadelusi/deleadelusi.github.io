@@ -1,7 +1,7 @@
 # main navigation links
 main:
   - title: "Resume"
-    url: /files/Dele AdelusiResume2026.pdf
+    url: /files/DeleAdelusiResume2026x.pdf
 
   - title: "Experiences"
     url: /experiences/
@@ -25,5 +25,5 @@ main:
     url: /newsmedia/
     
   - title: "Blogs"
-    url: /blog
+    url: /blogxxx
     
